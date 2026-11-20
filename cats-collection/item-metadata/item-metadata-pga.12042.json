@@ -1,0 +1,324 @@
+{
+  "_version_": 1810809084069281792,
+  "access_restricted": false,
+  "aka": [
+    "https://www.loc.gov/pictures/item/2017660723/",
+    "http://www.loc.gov/item/2017660723/",
+    "http://www.loc.gov/pictures/item/2017660723/",
+    "https://www.loc.gov/pictures/collection/pga/item/2017660723/",
+    "http://www.loc.gov/pictures/collection/pga/item/2017660723/",
+    "https://hdl.loc.gov/loc.pnp/pga.12042",
+    "https://hdl.loc.gov/loc.pnp/pga.12042",
+    "http://www.loc.gov/resource/pga.12042/",
+    "http://lccn.loc.gov/2017660723"
+  ],
+  "call_number": "PGA - Prang--Animals: Cat ... (A size) [P&P]",
+  "campaigns": [],
+  "contributor_names": [
+    "L. Prang & Co., copyright claimant"
+  ],
+  "contributors": [
+    {
+      "l. prang & co": "https://www.loc.gov/search/?fa=contributor:l.+prang+%26+co&fo=json"
+    }
+  ],
+  "control_number": "",
+  "created": "2024-09-17T06:06:33Z",
+  "created_published": [
+    "[Place not identified] : [Publisher not identified], [1872]"
+  ],
+  "created_published_date": "[1872]",
+  "date": "1872",
+  "dates": [
+    {
+      "1872": "https://www.loc.gov/search/?dates=1872/1872&fo=json"
+    }
+  ],
+  "description": [
+    "1 print : color lithograph ; sheet 27.9 x 35.6 cm. | Print shows a left side view of a domestic cat, full-length, lying down, faceing front, with one paw resting on a ball of yarn; also shows \"eye in sunlight\" and \"eye at night\", \"teeth of cat family\", \"tongue of cat family\", \"claw drawn back\", and \"claw thrust out\"."
+  ],
+  "digital_id": [
+    "pga 12042 https://hdl.loc.gov/loc.pnp/pga.12042"
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2024-09-21T12:34:40.264Z",
+  "extract_urls": [
+    "http://www.loc.gov/pictures/collection/pga/item/2017660723/#pga",
+    "http://lccn.loc.gov/2017660723#catalog-split-02"
+  ],
+  "format": [
+    {
+      "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+    }
+  ],
+  "format_headings": [
+    "Lithographs--Color--1870-1880."
+  ],
+  "genre": [
+    "Lithographs--Color--1870-1880"
+  ],
+  "group": [
+    "pga",
+    "catalog-split-02",
+    "catalog",
+    "popular-graphic-arts",
+    "main-catalog-split-02"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/2017660723/",
+  "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/pga/12000/12042_150px.jpg#h=118&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/pga/12000/12042r.jpg#h=505&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/pga/12000/12042v.jpg#h=808&w=1024"
+  ],
+  "index": 1,
+  "item": {
+    "call_number": "PGA - Prang--Animals: Cat ... (A size) [P&P]",
+    "contributors": [
+      "L. Prang & Co., copyright claimant"
+    ],
+    "control_number": "2017660723",
+    "created": "2024-09-17T06:06:33Z",
+    "created_published": "[Place not identified] : [Publisher not identified], [1872]",
+    "created_published_date": "[1872]",
+    "creators": [
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=L.%20Prang%20%26%20Co.&co=pga",
+        "role": "copyright claimant",
+        "title": "L. Prang & Co."
+      }
+    ],
+    "date": "[1872]",
+    "digital_id": [
+      "pga 12042 https://hdl.loc.gov/loc.pnp/pga.12042"
+    ],
+    "display_offsite": true,
+    "format": [
+      "still image"
+    ],
+    "formats": [
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=format&q=Lithographs--Color--1870-1880.&co=pga",
+        "title": "Lithographs--Color--1870-1880."
+      }
+    ],
+    "genre": [
+      "Lithographs--Color--1870-1880"
+    ],
+    "id": "2017660723",
+    "language": [
+      "eng"
+    ],
+    "link": "https://www.loc.gov/pictures/item/2017660723/",
+    "marc": "https://www.loc.gov/pictures/item/2017660723/marc/",
+    "medium": [
+      "1 print : color lithograph ; sheet 27.9 x 35.6 cm."
+    ],
+    "medium_brief": "1 print :",
+    "mediums": [
+      "1 print : color lithograph ; sheet 27.9 x 35.6 cm."
+    ],
+    "modified": "2024-09-17T06:06:34Z",
+    "notes": [
+      "C12253 U.S. Copyright Office.",
+      "Title from item.",
+      "Publication date based on copyright statement on item.",
+      "Printed on lower left: Order - Carnivora, or flesh eaters.",
+      "Printed on lower right: Family - Felid\u00e6, or cats.",
+      "Copyright number inscribed in pencil on lower left.",
+      "Forms part of: Popular graphic art print filing series (Library of Congress)."
+    ],
+    "other_control_numbers": [
+      "19970485"
+    ],
+    "part_of": "Popular graphic art print filing series (Library of Congress)",
+    "raw_collections": [
+      "diof",
+      "flickrcats",
+      "pga",
+      "pp"
+    ],
+    "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+    "reproduction_number": "LC-DIG-pga-12042 (digital file from original print)",
+    "resource_links": [
+      "https://hdl.loc.gov/loc.pnp/pga.12042"
+    ],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "service_low": "https://tile.loc.gov/storage-services/service/pnp/pga/12000/12042_150px.jpg",
+    "service_medium": "https://tile.loc.gov/storage-services/service/pnp/pga/12000/12042r.jpg",
+    "sort_date": "1872",
+    "source_collection": [
+      "Popular graphic art print filing series (Library of Congress)"
+    ],
+    "source_created": "2017-08-30T00:00:00Z",
+    "source_modified": "2024-09-10T12:44:37Z",
+    "subject_headings": [
+      "Cats--1870-1880."
+    ],
+    "subjects": [
+      "Cats--1870-1880"
+    ],
+    "summary": "Print shows a left side view of a domestic cat, full-length, lying down, faceing front, with one paw resting on a ball of yarn; also shows \"eye in sunlight\" and \"eye at night\", \"teeth of cat family\", \"tongue of cat family\", \"claw drawn back\", and \"claw thrust out\".",
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/pga/12000/12042_150px.jpg",
+    "title": "The cat - Felis domesticus"
+  },
+  "language": [
+    "english"
+  ],
+  "languages": [
+    {
+      "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+    }
+  ],
+  "library_of_congress_control_number": "2017660723",
+  "link": "https://www.loc.gov/pictures/item/2017660723/",
+  "marc": "https://www.loc.gov/pictures/item/2017660723/marc/",
+  "medium": [
+    "1 print : color lithograph ; sheet 27.9 x 35.6 cm."
+  ],
+  "medium_brief": "1 print :",
+  "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+  ],
+  "modified": "2024-09-17T06:06:34Z",
+  "notes": [
+    "C12253 U.S. Copyright Office.",
+    "Title from item.",
+    "Publication date based on copyright statement on item.",
+    "Printed on lower left: Order - Carnivora, or flesh eaters.",
+    "Printed on lower right: Family - Felid\u00e6, or cats.",
+    "Copyright number inscribed in pencil on lower left.",
+    "Forms part of: Popular graphic art print filing series (Library of Congress)."
+  ],
+  "number": [
+    "2024-09-10t12:44:37",
+    "sheet",
+    "2017660723",
+    "http://www.loc.gov/item/19970485"
+  ],
+  "number_carrier_type": [
+    "sheet"
+  ],
+  "number_former_id": [
+    "http://www.loc.gov/item/19970485"
+  ],
+  "number_lccn": [
+    "2017660723"
+  ],
+  "number_source_modified": [
+    "2024-09-10t12:44:37"
+  ],
+  "online_format": [
+    "image"
+  ],
+  "original_format": [
+    "photo, print, drawing"
+  ],
+  "other_control_numbers": [
+    "19970485"
+  ],
+  "other_formats": [
+    {
+      "label": "MARCXML Record",
+      "link": "https://lccn.loc.gov/2017660723/marcxml"
+    },
+    {
+      "label": "MODS Record",
+      "link": "https://lccn.loc.gov/2017660723/mods"
+    },
+    {
+      "label": "Dublin Core Record",
+      "link": "https://lccn.loc.gov/2017660723/dc"
+    }
+  ],
+  "partof": [
+    {
+      "count": 18960,
+      "title": "popular graphic arts",
+      "url": "https://www.loc.gov/collections/popular-graphic-arts/?fo=json"
+    },
+    {
+      "count": 1163271,
+      "title": "prints and photographs division",
+      "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+    },
+    {
+      "count": 1905879,
+      "title": "catalog",
+      "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+    }
+  ],
+  "raw_collections": [
+    "diof",
+    "flickrcats",
+    "pga",
+    "pp"
+  ],
+  "related": {
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=pga&pk=2017660723&st=gallery&sb=call_number#focus"
+  },
+  "repository": [
+    "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+  ],
+  "reproduction_number": "LC-DIG-pga-12042 (digital file from original print)",
+  "reproductions": [],
+  "resource_links": [
+    "https://hdl.loc.gov/loc.pnp/pga.12042"
+  ],
+  "resources": [
+    {
+      "caption": "digital file from original print",
+      "files": 1,
+      "image": "https://tile.loc.gov/storage-services/service/pnp/pga/12000/12042_150px.jpg",
+      "url": "https://www.loc.gov/resource/pga.12042/"
+    }
+  ],
+  "rights": [
+    "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"https://www.loc.gov/rr/print/res/248_pga.html\">Popular Graphic Arts Collection - Rights and Restrictions Information</a> </p>\n\n"
+  ],
+  "rights_advisory": "No known restrictions on publication.",
+  "rights_information": "No known restrictions on publication.",
+  "score": 18.891647,
+  "shard": "00",
+  "shelf_id": "PGA - Prang--Animals: Cat ... (A size) [P&P]",
+  "site": [
+    "pictures",
+    "catalog"
+  ],
+  "sort_date": "1872",
+  "source_collection": "Popular graphic art print filing series (Library of Congress)",
+  "source_created": "2017-08-30T00:00:00Z",
+  "source_modified": "2000-01-01T12:00:00Z",
+  "subject": [
+    "cats",
+    "color",
+    "lithographs"
+  ],
+  "subject_headings": [
+    "Cats--1870-1880"
+  ],
+  "subjects": [
+    {
+      "cats": "https://www.loc.gov/search/?fa=subject:cats&fo=json"
+    },
+    {
+      "color": "https://www.loc.gov/search/?fa=subject:color&fo=json"
+    },
+    {
+      "lithographs": "https://www.loc.gov/search/?fa=subject:lithographs&fo=json"
+    }
+  ],
+  "summary": "Print shows a left side view of a domestic cat, full-length, lying down, faceing front, with one paw resting on a ball of yarn; also shows \"eye in sunlight\" and \"eye at night\", \"teeth of cat family\", \"tongue of cat family\", \"claw drawn back\", and \"claw thrust out\".",
+  "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/pga/12000/12042_150px.jpg",
+  "timestamp": "2024-09-21T12:35:15.373Z",
+  "title": "The cat - Felis domesticus",
+  "type": [
+    "still image"
+  ],
+  "unrestricted": true,
+  "url": "https://www.loc.gov/item/2017660723/"
+}

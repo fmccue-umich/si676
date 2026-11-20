@@ -1,0 +1,342 @@
+{
+  "_version_": 1760358661352325120,
+  "access_advisory": "Original item served by appointment only. For more information see: http://hdl.loc.gov/loc.pnp/pp.access_request",
+  "access_restricted": false,
+  "aka": [
+    "https://www.loc.gov/pictures/item/2007683282/",
+    "http://www.loc.gov/item/2007683282/",
+    "http://www.loc.gov/pictures/item/2007683282/",
+    "https://www.loc.gov/pictures/collection/cph/item/2007683282/",
+    "http://www.loc.gov/pictures/collection/cph/item/2007683282/",
+    "https://hdl.loc.gov/loc.pnp/ppmsca.15528",
+    "https://hdl.loc.gov/loc.pnp/ppmsca.15528",
+    "http://www.loc.gov/resource/ppmsca.15528/",
+    "http://lccn.loc.gov/2007683282"
+  ],
+  "call_number": "PR 13 CN 1935:144, no. 4519 [P&P]",
+  "campaigns": [],
+  "contributor_names": [
+    "Penfield, Edward, 1866-1925, bookplate designer"
+  ],
+  "contributors": [
+    {
+      "penfield, edward": "https://www.loc.gov/search/?fa=contributor:penfield,+edward&fo=json"
+    }
+  ],
+  "control_number": "",
+  "created": "2022-08-16T06:06:56Z",
+  "created_published": [
+    "[between ca. 1900 and 1925]"
+  ],
+  "created_published_date": "[between ca. 1900 and 1925]",
+  "date": "1900-01-01",
+  "dates": [
+    {
+      "1900": "https://www.loc.gov/search/?dates=1900/1900&fo=json"
+    }
+  ],
+  "description": [
+    "1 print : woodcut, two colors ; bookplate 7.5 x 7.6 cm. | Bookplate shows a cat looking at an open book."
+  ],
+  "digital_id": [
+    "ppmsca 15528 https://hdl.loc.gov/loc.pnp/ppmsca.15528"
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2023-03-14T15:42:53.506Z",
+  "extract_urls": [
+    "http://www.loc.gov/pictures/collection/cph/item/2007683282/#cph",
+    "http://lccn.loc.gov/2007683282#catalog-split-06"
+  ],
+  "format": [
+    {
+      "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+    }
+  ],
+  "format_headings": [
+    "Bookplates--1900-1930.",
+    "Woodcuts--Color--1900-1930."
+  ],
+  "genre": [
+    "Bookplates--1900-1930",
+    "Woodcuts--Color--1900-1930"
+  ],
+  "group": [
+    "cph",
+    "catalog-split-06",
+    "catalog",
+    "miscellaneous-items-high-demand",
+    "main-catalog-split-06",
+    "main-catalog"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/2007683282/",
+  "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15500/15528_150px.jpg#h=149&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15500/15528t.gif#h=150&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15500/15528r.jpg#h=638&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15500/15528v.jpg#h=1021&w=1024"
+  ],
+  "index": 1,
+  "item": {
+    "access_advisory": "Original item served by appointment only. For more information see: http://hdl.loc.gov/loc.pnp/pp.access_request",
+    "call_number": "PR 13 CN 1935:144, no. 4519 [P&P]",
+    "contributors": [
+      "Penfield, Edward, 1866-1925, bookplate designer"
+    ],
+    "control_number": "2007683282",
+    "created": "2022-08-16T06:06:56Z",
+    "created_published": "[between ca. 1900 and 1925]",
+    "created_published_date": "[between ca. 1900 and 1925]",
+    "creators": [
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Penfield%2C%20Edward%2C%201866-1925&co=cph",
+        "role": "bookplate designer",
+        "title": "Penfield, Edward, 1866-1925"
+      }
+    ],
+    "date": "[between ca. 1900 and 1925]",
+    "digital_id": [
+      "ppmsca 15528 https://hdl.loc.gov/loc.pnp/ppmsca.15528"
+    ],
+    "display_offsite": true,
+    "format": [
+      "still image"
+    ],
+    "formats": [
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=format&q=Bookplates--1900-1930.&co=cph",
+        "title": "Bookplates--1900-1930."
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=format&q=Woodcuts--Color--1900-1930.&co=cph",
+        "title": "Woodcuts--Color--1900-1930."
+      }
+    ],
+    "genre": [
+      "Bookplates--1900-1930",
+      "Woodcuts--Color--1900-1930"
+    ],
+    "id": "2007683282",
+    "language": [
+      "eng"
+    ],
+    "link": "https://www.loc.gov/pictures/item/2007683282/",
+    "marc": "https://www.loc.gov/pictures/item/2007683282/marc/",
+    "medium": [
+      "1 print : woodcut, two colors ; bookplate 7.5 x 7.6 cm."
+    ],
+    "medium_brief": "1 print :",
+    "mediums": [
+      "1 print : woodcut, two colors ; bookplate 7.5 x 7.6 cm."
+    ],
+    "modified": "2022-08-16T06:06:57Z",
+    "notes": [
+      "Forms part of the Ruthven Deane bookplate collection.",
+      "Exhibit caption (2014): Artist Edward Penfield carved this elegant bookplate for himself during the heyday of the medium. Bookplates were not only pasted into books, they were actively collected and traded. Ruthven Deane, a lawyer by trade and bird watcher and bookplate collector by hobby, assembled a fine collection of close to 15,000 plates. That collection, in combination with plates donated by the American Society of Bookplate Collectors and Designers, still an active organization, makes the Library a destination for researching and enjoying these small prints.",
+      "Title devised by Library staff."
+    ],
+    "other_control_numbers": [
+      "14946104"
+    ],
+    "raw_collections": [
+      "cph",
+      "diof",
+      "flickrbplate25",
+      "pp"
+    ],
+    "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+    "reproduction_number": "LC-DIG-ppmsca-15528 (digital file from original item)",
+    "resource_links": [
+      "https://hdl.loc.gov/loc.pnp/ppmsca.15528"
+    ],
+    "restriction": "Original item served by appointment only. For more information see: http://hdl.loc.gov/loc.pnp/pp.access_request",
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "service_low": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15500/15528_150px.jpg",
+    "service_medium": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15500/15528r.jpg",
+    "sort_date": "1900",
+    "source_created": "2007-07-30T00:00:00Z",
+    "source_modified": "2022-08-09T23:54:47Z",
+    "subject_headings": [
+      "Penfield, Edward,--1866-1925--Associated objects.",
+      "Cats--1900-1930."
+    ],
+    "subjects": [
+      "Penfield, Edward,--1866-1925--Associated objects",
+      "Cats--1900-1930"
+    ],
+    "summary": "Bookplate shows a cat looking at an open book.",
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15500/15528_150px.jpg",
+    "title": "Edward Penfield, his book"
+  },
+  "language": [
+    "english"
+  ],
+  "languages": [
+    {
+      "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+    }
+  ],
+  "library_of_congress_control_number": "2007683282",
+  "link": "https://www.loc.gov/pictures/item/2007683282/",
+  "marc": "https://www.loc.gov/pictures/item/2007683282/marc/",
+  "medium": [
+    "1 print : woodcut, two colors ; bookplate 7.5 x 7.6 cm."
+  ],
+  "medium_brief": "1 print :",
+  "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+  ],
+  "modified": "2022-08-16T06:06:57Z",
+  "notes": [
+    "Forms part of the Ruthven Deane bookplate collection.",
+    "Exhibit caption (2014): Artist Edward Penfield carved this elegant bookplate for himself during the heyday of the medium. Bookplates were not only pasted into books, they were actively collected and traded. Ruthven Deane, a lawyer by trade and bird watcher and bookplate collector by hobby, assembled a fine collection of close to 15,000 plates. That collection, in combination with plates donated by the American Society of Bookplate Collectors and Designers, still an active organization, makes the Library a destination for researching and enjoying these small prints.",
+    "Title devised by Library staff."
+  ],
+  "number": [
+    "2022-08-09t23:54:47",
+    "sheet",
+    "2007683282",
+    "http://www.loc.gov/item/14946104"
+  ],
+  "number_carrier_type": [
+    "sheet"
+  ],
+  "number_former_id": [
+    "http://www.loc.gov/item/14946104"
+  ],
+  "number_lccn": [
+    "2007683282"
+  ],
+  "number_source_modified": [
+    "2022-08-09t23:54:47"
+  ],
+  "online_format": [
+    "image"
+  ],
+  "original_format": [
+    "photo, print, drawing"
+  ],
+  "other_control_numbers": [
+    "14946104"
+  ],
+  "other_formats": [
+    {
+      "label": "MARCXML Record",
+      "link": "https://lccn.loc.gov/2007683282/marcxml"
+    },
+    {
+      "label": "MODS Record",
+      "link": "https://lccn.loc.gov/2007683282/mods"
+    },
+    {
+      "label": "Dublin Core Record",
+      "link": "https://lccn.loc.gov/2007683282/dc"
+    }
+  ],
+  "partof": [
+    {
+      "count": 110443,
+      "title": "miscellaneous items in high demand",
+      "url": "https://www.loc.gov/search/?fa=partof:miscellaneous+items+in+high+demand&fo=json"
+    },
+    {
+      "count": 909541,
+      "title": "prints & photographs online catalog (library of congress)",
+      "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+    },
+    {
+      "count": 1163271,
+      "title": "prints and photographs division",
+      "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+    },
+    {
+      "count": 1905879,
+      "title": "catalog",
+      "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+    }
+  ],
+  "raw_collections": [
+    "cph",
+    "diof",
+    "flickrbplate25",
+    "pp"
+  ],
+  "related": {
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=2007683282&st=gallery&sb=call_number#focus"
+  },
+  "repository": [
+    "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+  ],
+  "reproduction_number": "LC-DIG-ppmsca-15528 (digital file from original item)",
+  "reproductions": [],
+  "resource_links": [
+    "https://hdl.loc.gov/loc.pnp/ppmsca.15528"
+  ],
+  "resources": [
+    {
+      "caption": "digital file from original item",
+      "files": 1,
+      "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15500/15528_150px.jpg",
+      "url": "https://www.loc.gov/resource/ppmsca.15528/"
+    }
+  ],
+  "restriction": "Original item served by appointment only. For more information see: http://hdl.loc.gov/loc.pnp/pp.access_request",
+  "rights": [],
+  "rights_advisory": "No known restrictions on publication.",
+  "rights_information": "No known restrictions on publication.",
+  "score": 19.475159,
+  "shard": "00",
+  "shelf_id": "PR 13 CN 1935:144, no. 4519 [P&P]",
+  "site": [
+    "pictures",
+    "catalog"
+  ],
+  "sort_date": "1900",
+  "source_created": "2007-07-30T00:00:00Z",
+  "source_modified": "2000-01-01T12:00:00Z",
+  "subject": [
+    "cats",
+    "woodcuts",
+    "bookplates",
+    "penfield, edward",
+    "color",
+    "associated objects"
+  ],
+  "subject_headings": [
+    "Penfield, Edward,--1866-1925--Associated objects",
+    "Cats--1900-1930"
+  ],
+  "subjects": [
+    {
+      "associated objects": "https://www.loc.gov/search/?fa=subject:associated+objects&fo=json"
+    },
+    {
+      "bookplates": "https://www.loc.gov/search/?fa=subject:bookplates&fo=json"
+    },
+    {
+      "cats": "https://www.loc.gov/search/?fa=subject:cats&fo=json"
+    },
+    {
+      "color": "https://www.loc.gov/search/?fa=subject:color&fo=json"
+    },
+    {
+      "penfield, edward": "https://www.loc.gov/search/?fa=subject:penfield,+edward&fo=json"
+    },
+    {
+      "woodcuts": "https://www.loc.gov/search/?fa=subject:woodcuts&fo=json"
+    }
+  ],
+  "summary": "Bookplate shows a cat looking at an open book.",
+  "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15500/15528_150px.jpg",
+  "timestamp": "2023-03-14T15:47:22.888Z",
+  "title": "Edward Penfield, his book",
+  "type": [
+    "still image"
+  ],
+  "unrestricted": true,
+  "url": "https://www.loc.gov/item/2007683282/"
+}

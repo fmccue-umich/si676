@@ -1,0 +1,363 @@
+{
+  "_version_": 1856473657583337472,
+  "access_advisory": "Restricted access: Materials in this collection are often extremely fragile; most originals cannot be served.",
+  "access_restricted": false,
+  "aka": [
+    "https://www.loc.gov/pictures/item/2010718287/",
+    "http://www.loc.gov/item/2010718287/",
+    "http://www.loc.gov/pictures/item/2010718287/",
+    "https://www.loc.gov/pictures/collection/cai/item/2010718287/",
+    "http://www.loc.gov/pictures/collection/cai/item/2010718287/",
+    "https://hdl.loc.gov/loc.pnp/cai.2a15065",
+    "https://hdl.loc.gov/loc.pnp/cai.2a15065",
+    "https://hdl.loc.gov/loc.pnp/cph.3g12139",
+    "https://hdl.loc.gov/loc.pnp/cph.3g12139",
+    "http://www.loc.gov/resource/cai.2a15065/",
+    "http://www.loc.gov/resource/cph.3g12139/",
+    "http://lccn.loc.gov/2010718287",
+    "https://search.catalog.loc.gov/instances/0e20d483-55ec-5087-8c14-22c3b1e74dad"
+  ],
+  "call_number": "CAI - Stephens (A.B.), no. 19 (A size) [P&P]",
+  "campaigns": [],
+  "contributor_names": [
+    "Stephens, Alice Barber, 1858-1932, artist"
+  ],
+  "contributors": [
+    {
+      "stephens, alice barber": "https://www.loc.gov/search/?fa=contributor:stephens,+alice+barber&fo=json"
+    }
+  ],
+  "control_number": "",
+  "created": "2026-02-03T05:39:28Z",
+  "created_published": [
+    "[1888?]"
+  ],
+  "created_published_date": "[1888?]",
+  "date": "1888",
+  "dates": [
+    {
+      "1888": "https://www.loc.gov/search/?dates=1888/1888&fo=json"
+    }
+  ],
+  "description": [
+    "1 drawing : wash."
+  ],
+  "digital_id": [
+    "cai 2a15065 https://hdl.loc.gov/loc.pnp/cai.2a15065",
+    "cph 3g12139 https://hdl.loc.gov/loc.pnp/cph.3g12139"
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2026-02-07T13:31:13.109Z",
+  "extract_urls": [
+    "http://www.loc.gov/pictures/collection/cai/item/2010718287/#cai",
+    "http://lccn.loc.gov/2010718287#catalog-split-04"
+  ],
+  "format": [
+    {
+      "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+    }
+  ],
+  "format_headings": [
+    "Book illustrations.",
+    "Drawings."
+  ],
+  "genre": [
+    "Book illustrations",
+    "Drawings"
+  ],
+  "group": [
+    "cai",
+    "catalog-split-04",
+    "catalog",
+    "cabinet-of-american-illustration",
+    "main-catalog-split-04"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/2010718287/",
+  "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/cai/2a15000/2a15000/2a15065_150px.jpg#h=76&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/cai/2a15000/2a15000/2a15065t.gif#h=76&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/cai/2a15000/2a15000/2a15065r.jpg#h=326&w=640"
+  ],
+  "index": 1,
+  "item": {
+    "access_advisory": "Restricted access: Materials in this collection are often extremely fragile; most originals cannot be served.",
+    "call_number": "CAI - Stephens (A.B.), no. 19 (A size) [P&P]",
+    "contributors": [
+      "Stephens, Alice Barber, 1858-1932, artist"
+    ],
+    "control_number": "2010718287",
+    "created": "2026-02-03T05:39:28Z",
+    "created_published": "[1888?]",
+    "created_published_date": "[1888?]",
+    "creators": [
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Stephens%2C%20Alice%20Barber%2C%201858-1932&co=cai",
+        "role": "artist",
+        "title": "Stephens, Alice Barber, 1858-1932"
+      }
+    ],
+    "date": "[1888?]",
+    "digital_id": [
+      "cai 2a15065 https://hdl.loc.gov/loc.pnp/cai.2a15065",
+      "cph 3g12139 https://hdl.loc.gov/loc.pnp/cph.3g12139"
+    ],
+    "display_offsite": true,
+    "format": [
+      "still image"
+    ],
+    "formats": [
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=format&q=Book%20illustrations.&co=cai",
+        "title": "Book illustrations."
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=format&q=Drawings.&co=cai",
+        "title": "Drawings."
+      }
+    ],
+    "genre": [
+      "Book illustrations",
+      "Drawings"
+    ],
+    "id": "2010718287",
+    "language": [
+      "eng"
+    ],
+    "link": "https://www.loc.gov/pictures/item/2010718287/",
+    "marc": "https://www.loc.gov/pictures/item/2010718287/marc/",
+    "medium": [
+      "1 drawing : wash."
+    ],
+    "medium_brief": "1 drawing :",
+    "mediums": [
+      "1 drawing : wash."
+    ],
+    "modified": "2026-02-03T05:39:31Z",
+    "notes": [
+      "(DLC/PP-1933:0118).",
+      "Forms part of: Cabinet of American illustration (Library of Congress).",
+      "Published in: Harper's second reader.  New York : Harper & Brothers, 1888. p. 27."
+    ],
+    "number_former_id": [
+      "https://www.loc.gov/item/2010718287",
+      "https://www.loc.gov/item/cai1996003492/PP"
+    ],
+    "other_control_numbers": [
+      "cai1996003492/PP"
+    ],
+    "part_of": "Cabinet of American illustration (Library of Congress)",
+    "raw_collections": [
+      "cai",
+      "diof",
+      "flickrcats",
+      "minload",
+      "pp"
+    ],
+    "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+    "reproduction_number": "LC-USZC4-12139 (color film copy transparency)",
+    "resource_links": [
+      "https://hdl.loc.gov/loc.pnp/cai.2a15065",
+      "https://hdl.loc.gov/loc.pnp/cph.3g12139"
+    ],
+    "restriction": "Restricted access: Materials in this collection are often extremely fragile; most originals cannot be served.",
+    "rights_advisory": "No known restrictions on publication. For information see \"Cabinet of American Illustration,\" https://www.loc.gov/rr/print/res/111_cai.html",
+    "rights_information": "No known restrictions on publication. For information see \"Cabinet of American Illustration,\" https://www.loc.gov/rr/print/res/111_cai.html",
+    "service_low": "https://tile.loc.gov/storage-services/service/pnp/cai/2a15000/2a15000/2a15065_150px.jpg",
+    "service_medium": "https://tile.loc.gov/storage-services/service/pnp/cai/2a15000/2a15000/2a15065r.jpg",
+    "sort_date": "1888",
+    "source_collection": [
+      "Cabinet of American illustration (Library of Congress)"
+    ],
+    "source_created": "2006-01-23T00:00:00Z",
+    "source_modified": "2026-01-26T20:13:55Z",
+    "subject_headings": [
+      "Cats.",
+      "Children.",
+      "Interiors."
+    ],
+    "subjects": [
+      "Cats",
+      "Children",
+      "Interiors"
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/cai/2a15000/2a15000/2a15065_150px.jpg",
+    "title": "What George asked the cat"
+  },
+  "language": [
+    "english"
+  ],
+  "languages": [
+    {
+      "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+    }
+  ],
+  "library_of_congress_control_number": "2010718287",
+  "link": "https://www.loc.gov/pictures/item/2010718287/",
+  "marc": "https://www.loc.gov/pictures/item/2010718287/marc/",
+  "medium": [
+    "1 drawing : wash."
+  ],
+  "medium_brief": "1 drawing :",
+  "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+  ],
+  "modified": "2026-02-03T05:39:31Z",
+  "notes": [
+    "(DLC/PP-1933:0118).",
+    "Forms part of: Cabinet of American illustration (Library of Congress).",
+    "Published in: Harper's second reader.  New York : Harper & Brothers, 1888. p. 27."
+  ],
+  "number": [
+    "sheet",
+    "http://www.loc.gov/item/cai1996003492/pp",
+    "http://www.loc.gov/item/2010718287",
+    "online resource",
+    "2010718287",
+    "2026-01-26t20:13:55.100000"
+  ],
+  "number_carrier_type": [
+    "sheet",
+    "online resource"
+  ],
+  "number_former_id": [
+    "http://www.loc.gov/item/cai1996003492/pp",
+    "http://www.loc.gov/item/2010718287"
+  ],
+  "number_lccn": [
+    "2010718287"
+  ],
+  "number_source_modified": [
+    "2026-01-26t20:13:55.100000"
+  ],
+  "online_format": [
+    "image"
+  ],
+  "original_format": [
+    "photo, print, drawing"
+  ],
+  "other_control_numbers": [
+    "cai1996003492/PP"
+  ],
+  "other_formats": [
+    {
+      "label": "MARCXML Record",
+      "link": "https://lccn.loc.gov/2010718287/marcxml"
+    },
+    {
+      "label": "MODS Record",
+      "link": "https://lccn.loc.gov/2010718287/mods"
+    },
+    {
+      "label": "Dublin Core Record",
+      "link": "https://lccn.loc.gov/2010718287/dc"
+    }
+  ],
+  "partof": [
+    {
+      "count": 3916,
+      "title": "cabinet of american illustration",
+      "url": "https://www.loc.gov/collections/cabinet-of-american-illustration/?fo=json"
+    },
+    {
+      "count": 1163271,
+      "title": "prints and photographs division",
+      "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+    },
+    {
+      "count": 1905879,
+      "title": "catalog",
+      "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+    }
+  ],
+  "raw_collections": [
+    "cai",
+    "diof",
+    "flickrcats",
+    "minload",
+    "pp"
+  ],
+  "related": {
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=cai&pk=2010718287&st=gallery&sb=call_number#focus"
+  },
+  "repository": [
+    "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+  ],
+  "reproduction_number": "LC-USZC4-12139 (color film copy transparency)",
+  "reproductions": [],
+  "resource_links": [
+    "https://hdl.loc.gov/loc.pnp/cai.2a15065",
+    "https://hdl.loc.gov/loc.pnp/cph.3g12139"
+  ],
+  "resources": [
+    {
+      "caption": "digital file from intermediary roll film copy",
+      "files": 1,
+      "image": "https://tile.loc.gov/storage-services/service/pnp/cai/2a15000/2a15000/2a15065_150px.jpg",
+      "url": "https://www.loc.gov/resource/cai.2a15065/"
+    },
+    {
+      "caption": "digital file from color film copy transparency",
+      "files": 1,
+      "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g12000/3g12100/3g12139_150px.jpg",
+      "url": "https://www.loc.gov/resource/cph.3g12139/"
+    }
+  ],
+  "restriction": "Restricted access: Materials in this collection are often extremely fragile; most originals cannot be served.",
+  "rights": [
+    "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"https://www.loc.gov/rr/print/res/111_cai.html\">Cabinet of American Illustration - Rights and Restrictions Information</a> </p>\n\n"
+  ],
+  "rights_advisory": "No known restrictions on publication. For information see \"Cabinet of American Illustration,\" https://www.loc.gov/rr/print/res/111_cai.html",
+  "rights_information": "No known restrictions on publication. For information see \"Cabinet of American Illustration,\" https://www.loc.gov/rr/print/res/111_cai.html",
+  "score": 18.891647,
+  "shard": "00",
+  "shelf_id": "CAI - Stephens (A.B.), no. 19 (A size) [P&P]",
+  "site": [
+    "pictures",
+    "catalog"
+  ],
+  "sort_date": "1888",
+  "source_collection": "Cabinet of American illustration (Library of Congress)",
+  "source_created": "2006-01-23T00:00:00Z",
+  "source_modified": "2000-01-01T12:00:00Z",
+  "subject": [
+    "interiors",
+    "children",
+    "cats",
+    "book illustrations",
+    "drawings"
+  ],
+  "subject_headings": [
+    "Cats",
+    "Children",
+    "Interiors"
+  ],
+  "subjects": [
+    {
+      "book illustrations": "https://www.loc.gov/search/?fa=subject:book+illustrations&fo=json"
+    },
+    {
+      "cats": "https://www.loc.gov/search/?fa=subject:cats&fo=json"
+    },
+    {
+      "children": "https://www.loc.gov/search/?fa=subject:children&fo=json"
+    },
+    {
+      "drawings": "https://www.loc.gov/search/?fa=subject:drawings&fo=json"
+    },
+    {
+      "interiors": "https://www.loc.gov/search/?fa=subject:interiors&fo=json"
+    }
+  ],
+  "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/cai/2a15000/2a15000/2a15065_150px.jpg",
+  "timestamp": "2026-02-07T13:34:06.273Z",
+  "title": "What George asked the cat",
+  "type": [
+    "still image"
+  ],
+  "unrestricted": true,
+  "url": "https://www.loc.gov/item/2010718287/"
+}

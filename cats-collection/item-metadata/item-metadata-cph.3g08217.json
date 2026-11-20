@@ -1,0 +1,318 @@
+{
+  "_version_": 1731650220485246976,
+  "access_restricted": false,
+  "aka": [
+    "https://www.loc.gov/pictures/item/00652567/",
+    "http://www.loc.gov/item/00652567/",
+    "http://www.loc.gov/pictures/item/00652567/",
+    "https://www.loc.gov/pictures/collection/cph/item/00652567/",
+    "http://www.loc.gov/pictures/collection/cph/item/00652567/",
+    "http://www.loc.gov/resource/cph.3g08217/",
+    "http://lccn.loc.gov/00652567",
+    "https://hdl.loc.gov/loc.pnp/cph.3g08217"
+  ],
+  "call_number": "Unprocessed in PR 06 CN 347 [item] [P&P]",
+  "campaigns": [],
+  "contributor_names": [
+    "Genthe, Arnold, 1869-1942, photographer"
+  ],
+  "contributors": [
+    {
+      "genthe, arnold": "https://www.loc.gov/search/?fa=contributor:genthe,+arnold&fo=json"
+    }
+  ],
+  "control_number": "",
+  "created": "2019-10-22T05:46:00Z",
+  "created_published": [
+    "[between 1910 and 1919]"
+  ],
+  "created_published_date": "[between 1910 and 1919]",
+  "date": "1910-01-01",
+  "dates": [
+    {
+      "1910": "https://www.loc.gov/search/?dates=1910/1910&fo=json"
+    }
+  ],
+  "description": [
+    "1 photographic print : gelatin silver. | Photograph shows close-up portrait of a cat, possibly one of the cats that Arnold Genthe called Buzzer."
+  ],
+  "digital_id": [
+    "cph 3g08217 //hdl.loc.gov/loc.pnp/cph.3g08217"
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2021-08-24T23:26:16.547Z",
+  "extract_urls": [
+    "http://www.loc.gov/pictures/collection/cph/item/00652567/#cph",
+    "http://lccn.loc.gov/00652567#catalog-split-15"
+  ],
+  "format": [
+    {
+      "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+    }
+  ],
+  "format_headings": [
+    "Gelatin silver prints--1910-1920.",
+    "Portrait photographs--1910-1920."
+  ],
+  "genre": [
+    "Portrait photographs--1910-1920",
+    "Gelatin silver prints--1910-1920"
+  ],
+  "group": [
+    "cph",
+    "catalog-split-15",
+    "catalog",
+    "miscellaneous-items-high-demand",
+    "main-catalog-split-15",
+    "main-catalog"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/00652567/",
+  "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g08000/3g08200/3g08217_150px.jpg#h=150&w=121",
+    "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g08000/3g08200/3g08217t.gif#h=150&w=121",
+    "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g08000/3g08200/3g08217r.jpg#h=640&w=515",
+    "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g08000/3g08200/3g08217v.jpg#h=1024&w=823"
+  ],
+  "index": 1,
+  "item": {
+    "call_number": "Unprocessed in PR 06 CN 347 [item] [P&P]",
+    "contributors": [
+      "Genthe, Arnold, 1869-1942, photographer."
+    ],
+    "control_number": "00652567",
+    "created": "2019-10-22T05:46:00Z",
+    "created_published": "[between 1910 and 1919]",
+    "created_published_date": "[between 1910 and 1919]",
+    "creators": [
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Genthe%2C%20Arnold%2C%201869-1942&co=cph",
+        "role": "photographer",
+        "title": "Genthe, Arnold, 1869-1942"
+      }
+    ],
+    "date": "[between 1910 and 1919]",
+    "digital_id": [
+      "cph 3g08217 //hdl.loc.gov/loc.pnp/cph.3g08217"
+    ],
+    "display_offsite": true,
+    "format": [
+      "still image"
+    ],
+    "formats": [
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=format&q=Gelatin%20silver%20prints--1910-1920.&co=cph",
+        "title": "Gelatin silver prints--1910-1920."
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=format&q=Portrait%20photographs--1910-1920.&co=cph",
+        "title": "Portrait photographs--1910-1920."
+      }
+    ],
+    "genre": [
+      "Portrait photographs--1910-1920",
+      "Gelatin silver prints--1910-1920"
+    ],
+    "id": "00652567",
+    "language": [
+      "eng"
+    ],
+    "link": "https://www.loc.gov/pictures/item/00652567/",
+    "marc": "https://www.loc.gov/pictures/item/00652567/marc/",
+    "medium": [
+      "1 photographic print : gelatin silver."
+    ],
+    "medium_brief": "1 photographic print :",
+    "mediums": [
+      "1 photographic print : gelatin silver."
+    ],
+    "modified": "2019-10-22T05:46:00Z",
+    "notes": [
+      "Forms part of: Arnold Genthe Collection (Library of Congress).",
+      "Unprocessed in PR 06 CN 347"
+    ],
+    "number_former_id": [
+      "https://www.loc.gov/item/00652567",
+      "https://www.loc.gov/item/12217492"
+    ],
+    "other_control_numbers": [
+      "12217492"
+    ],
+    "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA",
+    "reproduction_number": "LC-USZC4-8217 (color film copy transparency)",
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/cph.3g08217"
+    ],
+    "rights_advisory": "No known restritions on publication.",
+    "rights_information": "No known restritions on publication.",
+    "service_low": "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g08000/3g08200/3g08217_150px.jpg",
+    "service_medium": "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g08000/3g08200/3g08217r.jpg",
+    "sort_date": "1910",
+    "source_created": "2000-10-31T00:00:00Z",
+    "source_modified": "2019-10-15T08:15:13Z",
+    "subject_headings": [
+      "Genthe, Arnold,--1869-1942--Animals & pets.",
+      "Cats--1910-1920."
+    ],
+    "subjects": [
+      "Genthe, Arnold,--1869-1942--Animals & pets",
+      "Cats--1910-1920"
+    ],
+    "summary": "Photograph shows close-up portrait of a cat, possibly one of the cats that Arnold Genthe called Buzzer.",
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g08000/3g08200/3g08217_150px.jpg",
+    "title": "Study of a cat"
+  },
+  "language": [
+    "english"
+  ],
+  "languages": [
+    {
+      "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+    }
+  ],
+  "library_of_congress_control_number": "00652567",
+  "link": "https://www.loc.gov/pictures/item/00652567/",
+  "marc": "https://www.loc.gov/pictures/item/00652567/marc/",
+  "medium": [
+    "1 photographic print : gelatin silver."
+  ],
+  "medium_brief": "1 photographic print :",
+  "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+  ],
+  "modified": "2019-10-22T05:46:00Z",
+  "notes": [
+    "Forms part of: Arnold Genthe Collection (Library of Congress).",
+    "Unprocessed in PR 06 CN 347"
+  ],
+  "number": [
+    "http://www.loc.gov/item/00652567",
+    "http://www.loc.gov/item/12217492",
+    "00652567",
+    "2019-10-15t08:15:13"
+  ],
+  "number_former_id": [
+    "http://www.loc.gov/item/12217492",
+    "http://www.loc.gov/item/00652567"
+  ],
+  "number_lccn": [
+    "00652567"
+  ],
+  "number_source_modified": [
+    "2019-10-15t08:15:13"
+  ],
+  "online_format": [
+    "image"
+  ],
+  "original_format": [
+    "photo, print, drawing"
+  ],
+  "other_control_numbers": [
+    "12217492"
+  ],
+  "other_formats": [
+    {
+      "label": "MARCXML Record",
+      "link": "https://lccn.loc.gov/00652567/marcxml"
+    },
+    {
+      "label": "MODS Record",
+      "link": "https://lccn.loc.gov/00652567/mods"
+    },
+    {
+      "label": "Dublin Core Record",
+      "link": "https://lccn.loc.gov/00652567/dc"
+    }
+  ],
+  "partof": [
+    {
+      "count": 110443,
+      "title": "miscellaneous items in high demand",
+      "url": "https://www.loc.gov/search/?fa=partof:miscellaneous+items+in+high+demand&fo=json"
+    },
+    {
+      "count": 909541,
+      "title": "prints & photographs online catalog (library of congress)",
+      "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+    },
+    {
+      "count": 1163271,
+      "title": "prints and photographs division",
+      "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+    },
+    {
+      "count": 1905879,
+      "title": "catalog",
+      "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+    }
+  ],
+  "related": {
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=00652567&st=gallery&sb=call_number#focus"
+  },
+  "repository": [
+    "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA"
+  ],
+  "reproduction_number": "LC-USZC4-8217 (color film copy transparency)",
+  "reproductions": [],
+  "resource_links": [
+    "//hdl.loc.gov/loc.pnp/cph.3g08217"
+  ],
+  "resources": [
+    {
+      "caption": "digital file from color film copy transparency",
+      "files": 1,
+      "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g08000/3g08200/3g08217_150px.jpg",
+      "url": "https://www.loc.gov/resource/cph.3g08217/"
+    }
+  ],
+  "rights": [],
+  "rights_advisory": "No known restritions on publication.",
+  "rights_information": "No known restritions on publication.",
+  "score": 19.475159,
+  "shard": "00",
+  "shelf_id": "Unprocessed in PR 06 CN 347 [item] [P&P]",
+  "site": [
+    "pictures",
+    "catalog"
+  ],
+  "sort_date": "1910",
+  "source_created": "2000-10-31T00:00:00Z",
+  "source_modified": "2019-10-15T08:15:13Z",
+  "subject": [
+    "cats",
+    "portrait photographs",
+    "animals & pets",
+    "genthe, arnold",
+    "gelatin silver prints"
+  ],
+  "subject_headings": [
+    "Genthe, Arnold,--1869-1942--Animals & pets",
+    "Cats--1910-1920"
+  ],
+  "subjects": [
+    {
+      "animals & pets": "https://www.loc.gov/search/?fa=subject:animals+%26+pets&fo=json"
+    },
+    {
+      "cats": "https://www.loc.gov/search/?fa=subject:cats&fo=json"
+    },
+    {
+      "gelatin silver prints": "https://www.loc.gov/search/?fa=subject:gelatin+silver+prints&fo=json"
+    },
+    {
+      "genthe, arnold": "https://www.loc.gov/search/?fa=subject:genthe,+arnold&fo=json"
+    },
+    {
+      "portrait photographs": "https://www.loc.gov/search/?fa=subject:portrait+photographs&fo=json"
+    }
+  ],
+  "summary": "Photograph shows close-up portrait of a cat, possibly one of the cats that Arnold Genthe called Buzzer.",
+  "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g08000/3g08200/3g08217_150px.jpg",
+  "timestamp": "2022-05-01T18:39:00.177Z",
+  "title": "Study of a cat",
+  "unrestricted": true,
+  "url": "https://www.loc.gov/item/00652567/"
+}

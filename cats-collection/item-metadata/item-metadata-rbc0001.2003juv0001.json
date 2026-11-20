@@ -1,0 +1,254 @@
+{
+  "_version_": 1873942750114611200,
+  "access_restricted": false,
+  "aka": [
+    "http://lccn.loc.gov/03028132",
+    "http://www.loc.gov/item/03028132/",
+    "https://search.catalog.loc.gov/instances/5f662abe-bf9d-5512-ba96-83b61d263dc8",
+    "http://www.loc.gov/resource/rbc.2003juv0001/",
+    "https://hdl.loc.gov/loc.rbc/juv.0001"
+  ],
+  "call_number": [
+    "NC1075 .B6"
+  ],
+  "campaigns": [],
+  "contributor_names": [
+    "Bonsall, E. F., 1861-1956",
+    "Humphrey, Mabel",
+    "Juvenile Collection (Library of Congress)"
+  ],
+  "contributors": [
+    {
+      "bonsall, e. f.": "https://www.loc.gov/search/?fa=contributor:bonsall,+e.+f.&fo=json"
+    },
+    {
+      "humphrey, mabel": "https://www.loc.gov/search/?fa=contributor:humphrey,+mabel&fo=json"
+    },
+    {
+      "juvenile collection (library of congress)": "https://www.loc.gov/search/?fa=contributor:juvenile+collection+%28library+of+congress%29&fo=json"
+    }
+  ],
+  "control_number": "",
+  "created_published": [
+    "New York : Fredrick A. Stokes Co., 1903."
+  ],
+  "date": "1903",
+  "dates": [
+    {
+      "1903": "https://www.loc.gov/search/?dates=1903/1903&fo=json"
+    }
+  ],
+  "description": [
+    "Printed on one side of leaf only. Also available in digital form on the Library of Congress Web site."
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2026-08-19T09:03:58.634Z",
+  "extract_urls": [
+    "https://repo.loc.gov/access/public/rbc/2003juv0001/.resource.json#paprika-rbc",
+    "http://lccn.loc.gov/03028132#catalog-split-03"
+  ],
+  "format": [
+    {
+      "book": "https://www.loc.gov/search/?fa=original_format:book&fo=json"
+    }
+  ],
+  "genre": [
+    "Literature",
+    "Illustrated works"
+  ],
+  "group": [
+    "paprika-rbc",
+    "catalog-split-03",
+    "catalog",
+    "main-catalog-split-03"
+  ],
+  "hassegments": true,
+  "id": "http://www.loc.gov/item/03028132/",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:rbc:2003juv0001:0001/full/pct:6.25/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:rbc:2003juv0001:0001/full/pct:6.25/0/default.jpg#h=289&w=268",
+    "https://tile.loc.gov/image-services/iiif/public:rbc:2003juv0001:0001/full/pct:12.5/0/default.jpg#h=578&w=536",
+    "https://tile.loc.gov/image-services/iiif/public:rbc:2003juv0001:0001/full/pct:25.0/0/default.jpg#h=1156&w=1073",
+    "https://tile.loc.gov/image-services/iiif/public:rbc:2003juv0001:0001/full/pct:50.0/0/default.jpg#h=2313&w=2147",
+    "https://tile.loc.gov/image-services/iiif/public:rbc:2003juv0001:0001/full/pct:100.0/0/default.jpg#h=4627&w=4294"
+  ],
+  "index": 1,
+  "item": {
+    "call_number": [
+      "NC1075 .B6"
+    ],
+    "contributors": [
+      "Bonsall, E. F., 1861-1956",
+      "Humphrey, Mabel",
+      "Juvenile Collection (Library of Congress)"
+    ],
+    "created_published": [
+      "New York : Fredrick A. Stokes Co., 1903."
+    ],
+    "date": "1903",
+    "format": [
+      "text"
+    ],
+    "genre": [
+      "Literature",
+      "Illustrated works"
+    ],
+    "language": [
+      "eng"
+    ],
+    "medium": [
+      "1 v. (unpaged) : col. ill. ; 39 cm."
+    ],
+    "notes": [
+      "Printed on one side of leaf only.",
+      "Also available in digital form on the Library of Congress Web site."
+    ],
+    "subjects": [
+      "Cats--Juvenile literature",
+      "Cats--Pictorial works"
+    ],
+    "title": "The book of the cat : with facsimiles of drawings in colour"
+  },
+  "language": [
+    "english"
+  ],
+  "languages": [
+    {
+      "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+    }
+  ],
+  "library_of_congress_control_number": "03028132",
+  "medium": [
+    "1 v. (unpaged) : col. ill. ; 39 cm."
+  ],
+  "mime_type": [
+    "image/jpeg",
+    "application/pdf",
+    "image/jp2"
+  ],
+  "notes": [
+    "Printed on one side of leaf only."
+  ],
+  "number": [
+    "03028132",
+    "2026-08-17t14:40:12.900000",
+    "http://www.loc.gov/resource/rbc0001.2003juv0001"
+  ],
+  "number_former_id": [
+    "http://www.loc.gov/resource/rbc0001.2003juv0001"
+  ],
+  "number_lccn": [
+    "03028132"
+  ],
+  "number_source_modified": [
+    "2026-08-17t14:40:12.900000"
+  ],
+  "online_format": [
+    "image",
+    "pdf"
+  ],
+  "original_format": [
+    "book"
+  ],
+  "other_formats": [
+    {
+      "label": "MARCXML Record",
+      "link": "https://lccn.loc.gov/03028132/marcxml"
+    },
+    {
+      "label": "MODS Record",
+      "link": "https://lccn.loc.gov/03028132/mods"
+    },
+    {
+      "label": "Dublin Core Record",
+      "link": "https://lccn.loc.gov/03028132/dc"
+    }
+  ],
+  "partof": [
+    {
+      "count": 63,
+      "title": "kidlit",
+      "url": "https://www.loc.gov/search/?fa=partof:kidlit&fo=json"
+    },
+    {
+      "count": 67,
+      "title": "children's book selections",
+      "url": "https://www.loc.gov/collections/childrens-book-selections/?fo=json"
+    },
+    {
+      "count": 6496,
+      "title": "rare book selections",
+      "url": "https://www.loc.gov/collections/rare-book-selections/?fo=json"
+    },
+    {
+      "count": 29857,
+      "title": "rare book and special collections division",
+      "url": "https://www.loc.gov/search/?fa=partof:rare+book+and+special+collections+division&fo=json"
+    },
+    {
+      "count": 1905879,
+      "title": "catalog",
+      "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+    }
+  ],
+  "resources": [
+    {
+      "files": 61,
+      "former_urls": 1,
+      "image": "https://tile.loc.gov/image-services/iiif/public:rbc:2003juv0001:0001/full/pct:6.25/0/default.jpg",
+      "paprika": [
+        "path",
+        "version",
+        "type",
+        "schema_version"
+      ],
+      "pdf": "https://tile.loc.gov/storage-services/public/rbc/2003juv0001/2003juv0001.pdf",
+      "url": "https://www.loc.gov/resource/rbc.2003juv0001/"
+    }
+  ],
+  "rights": [
+    "<p>Library of Congress Children's Book Selections are in the public domain and are free to use and reuse.</p>\r\n<ul>\r\n\t<li>Credit Line - For books from the General Collections: Library of Congress</li>\r\n\t<li>Credit Line - For books from The Rare Book and Special Collections Division: Library of Congress, Rare Book and Special Collections Division</li>\r\n</ul>\r\n<p>More about <a href=\"https://www.loc.gov/legal/\">Copyright and other Restrictions</a>.</p>\r\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\r\n\r\n"
+  ],
+  "score": 15.973326,
+  "shard": "08",
+  "shelf_id": "NC1075 .B6",
+  "site": [
+    "catalog"
+  ],
+  "source_modified": "2000-01-01T12:00:00Z",
+  "subject": [
+    "literature",
+    "cats",
+    "pictorial works",
+    "juvenile literature",
+    "illustrated works"
+  ],
+  "subject_headings": [
+    "Cats--Juvenile literature",
+    "Cats--Pictorial works"
+  ],
+  "subjects": [
+    {
+      "cats": "https://www.loc.gov/search/?fa=subject:cats&fo=json"
+    },
+    {
+      "illustrated works": "https://www.loc.gov/search/?fa=subject:illustrated+works&fo=json"
+    },
+    {
+      "juvenile literature": "https://www.loc.gov/search/?fa=subject:juvenile+literature&fo=json"
+    },
+    {
+      "literature": "https://www.loc.gov/search/?fa=subject:literature&fo=json"
+    },
+    {
+      "pictorial works": "https://www.loc.gov/search/?fa=subject:pictorial+works&fo=json"
+    }
+  ],
+  "timestamp": "2026-08-19T09:17:51.005Z",
+  "title": "The book of the cat : with facsimiles of drawings in colour",
+  "type": [
+    "text"
+  ],
+  "url": "https://www.loc.gov/item/03028132/"
+}

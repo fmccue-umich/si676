@@ -1,0 +1,413 @@
+{
+  "_version_": 1730909837333626880,
+  "access_restricted": false,
+  "aka": [
+    "https://www.loc.gov/pictures/item/2017656550/",
+    "http://www.loc.gov/item/2017656550/",
+    "http://www.loc.gov/pictures/item/2017656550/",
+    "https://www.loc.gov/pictures/collection/highsm/item/2017656550/",
+    "http://www.loc.gov/pictures/collection/highsm/item/2017656550/",
+    "http://www.loc.gov/resource/highsm.43955/",
+    "http://lccn.loc.gov/2017656550",
+    "https://hdl.loc.gov/loc.pnp/highsm.43955"
+  ],
+  "call_number": "LC-DIG-highsm- 43955 (ONLINE) [P&P]",
+  "campaigns": [],
+  "contributor_names": [
+    "Highsmith, Carol M., 1946-, photographer"
+  ],
+  "contributors": [
+    {
+      "highsmith, carol m.": "https://www.loc.gov/search/?fa=contributor:highsmith,+carol+m.&fo=json"
+    }
+  ],
+  "control_number": "",
+  "created": "2019-10-22T06:53:50Z",
+  "created_published": [
+    "2014-07-13."
+  ],
+  "created_published_date": "2014-07-13.",
+  "date": "2014-01-01",
+  "dates": [
+    {
+      "2014": "https://www.loc.gov/search/?dates=2014/2014&fo=json"
+    }
+  ],
+  "description": [
+    "1 photograph : digital, tiff file, color."
+  ],
+  "digital_id": [
+    "highsm 43955 //hdl.loc.gov/loc.pnp/highsm.43955"
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2021-08-30T19:15:01.389Z",
+  "extract_urls": [
+    "http://www.loc.gov/pictures/collection/highsm/item/2017656550/#highsm",
+    "http://lccn.loc.gov/2017656550#catalog-split-05"
+  ],
+  "format": [
+    {
+      "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+    }
+  ],
+  "format_headings": [
+    "Digital photographs--Color--2010-2020."
+  ],
+  "genre": [
+    "Digital photographs--Color--2010-2020"
+  ],
+  "group": [
+    "highsm",
+    "catalog-split-05",
+    "catalog",
+    "carol-m-highsmith",
+    "main-catalog-split-05",
+    "main-catalog"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/2017656550/",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:43900:43955/full/pct:6.25/0/default.jpg#h=307&w=460",
+    "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:43900:43955/full/pct:12.5/0/default.jpg#h=614&w=920",
+    "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:43900:43955/full/pct:25/0/default.jpg#h=1228&w=1840"
+  ],
+  "index": 1,
+  "item": {
+    "call_number": "LC-DIG-highsm- 43955 (ONLINE) [P&P]",
+    "contributors": [
+      "Highsmith, Carol M., 1946- photographer."
+    ],
+    "control_number": "2017656550",
+    "created": "2019-10-22T06:53:50Z",
+    "created_published": "2014-07-13.",
+    "created_published_date": "2014-07-13.",
+    "creators": [
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Highsmith%2C%20Carol%20M.%2C%201946-&co=highsm",
+        "role": "photographer",
+        "title": "Highsmith, Carol M., 1946-"
+      }
+    ],
+    "date": "2014-07-13.",
+    "digital_id": [
+      "highsm 43955 //hdl.loc.gov/loc.pnp/highsm.43955"
+    ],
+    "display_offsite": true,
+    "format": [
+      "still image"
+    ],
+    "formats": [
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=format&q=Digital%20photographs--Color--2010-2020.&co=highsm",
+        "title": "Digital photographs--Color--2010-2020."
+      }
+    ],
+    "genre": [
+      "Digital photographs--Color--2010-2020"
+    ],
+    "id": "2017656550",
+    "language": [
+      "eng"
+    ],
+    "link": "https://www.loc.gov/pictures/item/2017656550/",
+    "marc": "https://www.loc.gov/pictures/item/2017656550/marc/",
+    "medium": [
+      "1 photograph : digital, tiff file, color."
+    ],
+    "medium_brief": "1 photograph :",
+    "mediums": [
+      "1 photograph : digital, tiff file, color."
+    ],
+    "modified": "2019-10-22T06:53:50Z",
+    "notes": [
+      "Title, date, and keywords provided by the photographer.",
+      "Credit line: Carol M. Highsmith's America, Library of Congress, Prints and Photographs Division.",
+      "Gift; Carol M. Highsmith; 2017; (DLC/PP-2002:038-12).",
+      "Forms part of: Carol M. Highsmith's America Project in the Carol M. Highsmith Archive.",
+      "Exhibited as a digital copy in: \"Not an Ostrich: And Other Images from America's Library\" at the Annenberg Space for Photography, 2018;  Highsmith section."
+    ],
+    "number_former_id": [
+      "https://www.loc.gov/item/2017656550",
+      "https://www.loc.gov/item/hig2012004826"
+    ],
+    "other_control_numbers": [
+      "19829415"
+    ],
+    "part_of": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=Connecticut--Bristol&co=highsm",
+        "longitude": "",
+        "title": "Connecticut--Bristol"
+      }
+    ],
+    "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+    "reproduction_number": "LC-DIG-highsm-43955 (original digital file)",
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/highsm.43955"
+    ],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "service_low": "https://tile.loc.gov/storage-services/service/pnp/highsm/43900/43955_150px.jpg",
+    "service_medium": "https://tile.loc.gov/storage-services/service/pnp/highsm/43900/43955r.jpg",
+    "sort_date": "2014",
+    "source_collection": [
+      "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+    ],
+    "source_created": "2017-07-24T00:00:00Z",
+    "source_modified": "2019-10-15T08:31:45Z",
+    "subject_headings": [
+      "United States--Connecticut--Bristol.",
+      "America",
+      "Lake Compounce Amusement Park",
+      "carousels",
+      "Carousel cat",
+      "Merry-go-rounds",
+      "Connecticut--Bristol"
+    ],
+    "subjects": [
+      "United States--Connecticut--Bristol",
+      "America",
+      "Lake Compounce Amusement Park",
+      "Carousels",
+      "Carousel cat",
+      "Merry-go-rounds"
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/highsm/43900/43955_150px.jpg",
+    "title": "A most unusual carousel at the Lake Compounce amusement park in Bristol, Connecticut. Opened in 1846, it is the oldest continuously-operating amusement park in the United States"
+  },
+  "language": [
+    "english"
+  ],
+  "languages": [
+    {
+      "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+    }
+  ],
+  "library_of_congress_control_number": "2017656550",
+  "link": "https://www.loc.gov/pictures/item/2017656550/",
+  "location": [
+    "bristol",
+    "united states",
+    "connecticut"
+  ],
+  "location_city": [
+    "bristol"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "connecticut"
+  ],
+  "locations": [
+    {
+      "bristol": "https://www.loc.gov/search/?fa=location:bristol&fo=json"
+    },
+    {
+      "connecticut": "https://www.loc.gov/search/?fa=location:connecticut&fo=json"
+    },
+    {
+      "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+    }
+  ],
+  "locations_city": [
+    {
+      "bristol": "https://www.loc.gov/search/?fa=location_city:bristol&fo=json"
+    }
+  ],
+  "locations_country": [
+    {
+      "united states": "https://www.loc.gov/search/?fa=location_country:united+states&fo=json"
+    }
+  ],
+  "locations_state": [
+    {
+      "connecticut": "https://www.loc.gov/search/?fa=location_state:connecticut&fo=json"
+    }
+  ],
+  "marc": "https://www.loc.gov/pictures/item/2017656550/marc/",
+  "medium": [
+    "1 photograph : digital, tiff file, color."
+  ],
+  "medium_brief": "1 photograph :",
+  "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+  ],
+  "modified": "2019-10-22T06:53:50Z",
+  "notes": [
+    "Title, date, and keywords provided by the photographer.",
+    "Credit line: Carol M. Highsmith's America, Library of Congress, Prints and Photographs Division.",
+    "Gift; Carol M. Highsmith; 2017; (DLC/PP-2002:038-12).",
+    "Forms part of: Carol M. Highsmith's America Project in the Carol M. Highsmith Archive.",
+    "Exhibited as a digital copy in: \"Not an Ostrich: And Other Images from America's Library\" at the Annenberg Space for Photography, 2018;  Highsmith section."
+  ],
+  "number": [
+    "2019-10-15t08:31:45",
+    "http://www.loc.gov/item/hig2012004826",
+    "http://www.loc.gov/item/2017656550",
+    "http://www.loc.gov/item/19829415",
+    "2017656550"
+  ],
+  "number_former_id": [
+    "http://www.loc.gov/item/19829415",
+    "http://www.loc.gov/item/2017656550",
+    "http://www.loc.gov/item/hig2012004826"
+  ],
+  "number_lccn": [
+    "2017656550"
+  ],
+  "number_source_modified": [
+    "2019-10-15t08:31:45"
+  ],
+  "online_format": [
+    "image"
+  ],
+  "original_format": [
+    "photo, print, drawing"
+  ],
+  "other_control_numbers": [
+    "19829415"
+  ],
+  "other_formats": [
+    {
+      "label": "MARCXML Record",
+      "link": "https://lccn.loc.gov/2017656550/marcxml"
+    },
+    {
+      "label": "MODS Record",
+      "link": "https://lccn.loc.gov/2017656550/mods"
+    },
+    {
+      "label": "Dublin Core Record",
+      "link": "https://lccn.loc.gov/2017656550/dc"
+    }
+  ],
+  "partof": [
+    {
+      "count": 70435,
+      "title": "highsmith (carol m.) archive",
+      "url": "https://www.loc.gov/collections/carol-m-highsmith/?fo=json"
+    },
+    {
+      "count": 909541,
+      "title": "prints & photographs online catalog (library of congress)",
+      "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+    },
+    {
+      "count": 1163271,
+      "title": "prints and photographs division",
+      "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+    },
+    {
+      "count": 1905879,
+      "title": "catalog",
+      "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+    }
+  ],
+  "place": [
+    {
+      "latitude": "",
+      "link": "https://www.loc.gov/pictures/related/?fi=place&q=Connecticut--Bristol&co=highsm",
+      "longitude": "",
+      "title": "Connecticut--Bristol"
+    }
+  ],
+  "related": {
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=highsm&pk=2017656550&st=gallery&sb=call_number#focus"
+  },
+  "repository": [
+    "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+  ],
+  "reproduction_number": "LC-DIG-highsm-43955 (original digital file)",
+  "reproductions": [
+    "<p>Some images in this collection are described in groups; others are  described individually. In some cases, all of the images in the  group display online, in other cases they do not. </p>\r\n<p>You can download online images yourself.  Alternatively, you can  purchase copies of various types. </p>\r\n<ol class=\"margin-bottom-double-li\">\r\n\t<li><strong>Determine whether the desired materials can be retrieved  online.</strong>\r\n\t\t<ul class=\"plain margin-bottom-single-li\">\r\n\t\t\t<li>Look in the <strong>Medium</strong> field above to determine whether  the description is for one photograph or more than one.</li>\r\n\t\t\t<li>If the description is for a single item and it is displaying, you can download or purchase a print.  Cite the number that begins  with \"LC-DIG...\" when purchasing copies through Library of Congress Duplication Services. </li>\r\n\t\t\t<li>If the description is for more than one item and there is  a \"Click for more images\" icon displaying, select that.  Individual images will display; you can download or purchase prints.  Cite the number that begins with \"LC-DIG...\" when purchasing  copies through Library of Congress Duplication Services. </li>\r\n\t\t\t<li>If the description is for more than one item and there is no \"Click for more images\" icon displaying, return to the \"About this Item\" tab and select the \"<em>Check for online items from this group</em>\" link.  Then select the \"Obtaining Copies\" tab for any retrieved items that are of interest. </li>\r\n\t\t</ul>\r\n\t</li>\r\n\t<li><strong>If the images do not display online</strong> -- Select images for reproduction through one of these methods:\r\n\t\t<ul class=\"plain margin-bottom-single-li\">\r\n\t\t\t<li>Visit the Prints &amp; Photographs Reading Room and request to view  the group (general information about service in the reading room is  available at: <a href=\"https://www.loc.gov/rr/print/info/001_ref.html\">https://www.loc.gov/rr/print/info/001_ref.html</a>).</li>\r\n\t\t\t<li>P&amp;P reading room staff can provide up to 15 photocopies of items  per calendar year. (Color images cannot be photocopied.) For assistance,  see our <a href=\"https://ask.loc.gov/prints-photographs/\">Ask a Librarian</a> page. OR</li>\r\n\t\t\t<li>Hire a freelance researcher to do further selection for you  (a list of researchers is available at: <a href=\"https://www.loc.gov/rr/print/resource/013_pic.html\">https://www.loc.gov/rr/print/resource/013_pic.html</a>). </li>\r\n\t\t</ul>\r\n\t</li>\r\n</ol>\r\n<h4>Purchasing Copies</h4>\r\n<p>Library of Congress Duplication Services can make copies of various  types from images in Prints &amp; Photographs Division Collections.   Price lists, contact information, and order forms are available on the <a href=\"https://www.loc.gov/preserv/pds/\">Duplication Services Web site</a>.</p>\r\n<p>Carol M. Highsmith sells prints of her photographs at: <a target=\"_blank\" href=\"http://photographsamerica.com/\">http://photographsamerica.com/ <i class=\"icon icon-external-link\"><span>External</span></i></a> .</p>\r\n"
+  ],
+  "resource_links": [
+    "//hdl.loc.gov/loc.pnp/highsm.43955"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "image": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:43900:43955/full/pct:6.25/0/default.jpg",
+      "url": "https://www.loc.gov/resource/highsm.43955/"
+    }
+  ],
+  "rights": [
+    "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"https://www.loc.gov/rr/print/res/482_high.html\">Carol M. Highsmith - Rights and Restrictions Information</a> </p>\n\n"
+  ],
+  "rights_advisory": "No known restrictions on publication.",
+  "rights_information": "No known restrictions on publication.",
+  "score": 19.475159,
+  "shard": "00",
+  "shelf_id": "LC-DIG-highsm- 43955 (ONLINE) [P&P]",
+  "site": [
+    "pictures",
+    "catalog"
+  ],
+  "sort_date": "2014",
+  "source_collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+  "source_created": "2017-07-24T00:00:00Z",
+  "source_modified": "2019-10-15T08:31:45Z",
+  "subject": [
+    "america",
+    "digital photographs",
+    "connecticut",
+    "carousel cat",
+    "carousels",
+    "united states",
+    "color",
+    "bristol",
+    "merry-go-rounds",
+    "lake compounce amusement park"
+  ],
+  "subject_headings": [
+    "United States--Connecticut--Bristol",
+    "America",
+    "Lake Compounce Amusement Park",
+    "Carousels",
+    "Carousel cat",
+    "Merry-go-rounds"
+  ],
+  "subjects": [
+    {
+      "america": "https://www.loc.gov/search/?fa=subject:america&fo=json"
+    },
+    {
+      "bristol": "https://www.loc.gov/search/?fa=subject:bristol&fo=json"
+    },
+    {
+      "carousel cat": "https://www.loc.gov/search/?fa=subject:carousel+cat&fo=json"
+    },
+    {
+      "carousels": "https://www.loc.gov/search/?fa=subject:carousels&fo=json"
+    },
+    {
+      "color": "https://www.loc.gov/search/?fa=subject:color&fo=json"
+    },
+    {
+      "connecticut": "https://www.loc.gov/search/?fa=subject:connecticut&fo=json"
+    },
+    {
+      "digital photographs": "https://www.loc.gov/search/?fa=subject:digital+photographs&fo=json"
+    },
+    {
+      "lake compounce amusement park": "https://www.loc.gov/search/?fa=subject:lake+compounce+amusement+park&fo=json"
+    },
+    {
+      "merry-go-rounds": "https://www.loc.gov/search/?fa=subject:merry-go-rounds&fo=json"
+    },
+    {
+      "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+    }
+  ],
+  "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/highsm/43900/43955_150px.jpg",
+  "timestamp": "2022-04-23T14:30:55.685Z",
+  "title": "A most unusual carousel at the Lake Compounce amusement park in Bristol, Connecticut. Opened in 1846, it is the oldest continuously-operating amusement park in the United States",
+  "unrestricted": true,
+  "url": "https://www.loc.gov/item/2017656550/"
+}

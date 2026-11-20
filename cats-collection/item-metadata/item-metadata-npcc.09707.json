@@ -1,0 +1,299 @@
+{
+  "_version_": 1731568425888645120,
+  "access_restricted": false,
+  "aka": [
+    "https://www.loc.gov/pictures/item/2016835981/",
+    "http://www.loc.gov/item/2016835981/",
+    "http://www.loc.gov/pictures/item/2016835981/",
+    "https://www.loc.gov/pictures/collection/npco/item/2016835981/",
+    "http://www.loc.gov/pictures/collection/npco/item/2016835981/",
+    "https://hdl.loc.gov/loc.pnp/npcc.09707",
+    "http://www.loc.gov/resource/npcc.09707/",
+    "http://lccn.loc.gov/2016835981"
+  ],
+  "call_number": "LC-F8- 26931 [P&P]",
+  "campaigns": [],
+  "control_number": "",
+  "created": "2019-10-22T06:04:25Z",
+  "created_published": [
+    "[19]23 October 20."
+  ],
+  "created_published_date": "[19]23 October 20.",
+  "date": "1923-01-01",
+  "dates": [
+    {
+      "1923": "https://www.loc.gov/search/?dates=1923/1923&fo=json"
+    }
+  ],
+  "description": [
+    "1 negative : glass ; 4 x 5 in. or smaller | Photograph shows Blackie and Tiger, two of the cats owned by President Calvin Coolidge."
+  ],
+  "digital_id": [
+    "npcc 09707 //hdl.loc.gov/loc.pnp/npcc.09707"
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2021-09-01T23:22:15.867Z",
+  "extract_urls": [
+    "http://www.loc.gov/pictures/collection/npco/item/2016835981/#npco",
+    "http://lccn.loc.gov/2016835981#catalog-split-11"
+  ],
+  "format": [
+    {
+      "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+    }
+  ],
+  "format_headings": [
+    "Glass negatives."
+  ],
+  "genre": [
+    "Glass negatives"
+  ],
+  "group": [
+    "npco",
+    "catalog-split-11",
+    "catalog",
+    "national-photo-company",
+    "main-catalog-split-11",
+    "main-catalog"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/2016835981/",
+  "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/npcc/09700/09707_150px.jpg#h=150&w=122",
+    "https://tile.loc.gov/storage-services/service/pnp/npcc/09700/09707t.gif#h=150&w=122",
+    "https://tile.loc.gov/storage-services/service/pnp/npcc/09700/09707r.jpg#h=640&w=521",
+    "https://tile.loc.gov/storage-services/service/pnp/npcc/09700/09707v.jpg#h=1024&w=834"
+  ],
+  "index": 1,
+  "item": {
+    "call_number": "LC-F8- 26931 [P&P]",
+    "control_number": "2016835981",
+    "created": "2019-10-22T06:04:25Z",
+    "created_published": "[19]23 October 20.",
+    "created_published_date": "[19]23 October 20.",
+    "date": "[19]23 October 20.",
+    "digital_id": [
+      "npcc 09707 //hdl.loc.gov/loc.pnp/npcc.09707"
+    ],
+    "display_offsite": true,
+    "format": [
+      "still image"
+    ],
+    "formats": [
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=format&q=Glass%20negatives.&co=npco",
+        "title": "Glass negatives."
+      }
+    ],
+    "genre": [
+      "Glass negatives"
+    ],
+    "id": "2016835981",
+    "language": [
+      "eng"
+    ],
+    "link": "https://www.loc.gov/pictures/item/2016835981/",
+    "marc": "https://www.loc.gov/pictures/item/2016835981/marc/",
+    "medium": [
+      "1 negative : glass ; 4 x 5 in. or smaller"
+    ],
+    "medium_brief": "1 negative :",
+    "mediums": [
+      "1 negative : glass ; 4 x 5 in. or smaller"
+    ],
+    "modified": "2019-10-22T06:04:25Z",
+    "notes": [
+      "Title from unverified data provided by the National Photo Company on the negative or negative sleeve.",
+      "Gift; Herbert A. French; 1947.",
+      "General information about the National Photo Company collection is available at http://hdl.loc.gov/loc.pnp/pp.npco",
+      "This glass negative might show streaks and other blemishes resulting from a natural deterioration in the original coatings.",
+      "Temp. note: Batch three."
+    ],
+    "number_former_id": [
+      "https://www.loc.gov/item/2016835981",
+      "https://www.loc.gov/item/npc2007009706"
+    ],
+    "other_control_numbers": [
+      "20191541",
+      "npc2007009706"
+    ],
+    "part_of": "National Photo Company Collection (Library of Congress)",
+    "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+    "reproduction_number": "LC-DIG-npcc-09707 (digital file from original)",
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/npcc.09707"
+    ],
+    "rights_advisory": "No known restrictions on publication. For more information, see National Photo Company Collection - Rights and Restrictions Information https://www.loc.gov/rr/print/res/275_npco.html",
+    "rights_information": "No known restrictions on publication. For more information, see National Photo Company Collection - Rights and Restrictions Information https://www.loc.gov/rr/print/res/275_npco.html",
+    "service_low": "https://tile.loc.gov/storage-services/service/pnp/npcc/09700/09707_150px.jpg",
+    "service_medium": "https://tile.loc.gov/storage-services/service/pnp/npcc/09700/09707r.jpg",
+    "sort_date": "1923",
+    "source_collection": [
+      "National Photo Company Collection (Library of Congress)"
+    ],
+    "source_created": "2007-07-02T00:00:00Z",
+    "source_modified": "2019-10-15T08:20:29Z",
+    "subject_headings": [
+      "Coolidge, Calvin,--1872-1933--Animals & pets."
+    ],
+    "subjects": [
+      "Coolidge, Calvin,--1872-1933--Animals & pets"
+    ],
+    "summary": "Photograph shows Blackie and Tiger, two of the cats owned by President Calvin Coolidge.",
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/npcc/09700/09707_150px.jpg",
+    "title": "Blackie & Tiger, 10/20/23"
+  },
+  "language": [
+    "english"
+  ],
+  "languages": [
+    {
+      "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+    }
+  ],
+  "library_of_congress_control_number": "2016835981",
+  "link": "https://www.loc.gov/pictures/item/2016835981/",
+  "marc": "https://www.loc.gov/pictures/item/2016835981/marc/",
+  "medium": [
+    "1 negative : glass ; 4 x 5 in. or smaller"
+  ],
+  "medium_brief": "1 negative :",
+  "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+  ],
+  "modified": "2019-10-22T06:04:25Z",
+  "notes": [
+    "Title from unverified data provided by the National Photo Company on the negative or negative sleeve.",
+    "Gift; Herbert A. French; 1947.",
+    "General information about the National Photo Company collection is available at http://hdl.loc.gov/loc.pnp/pp.npco",
+    "This glass negative might show streaks and other blemishes resulting from a natural deterioration in the original coatings.",
+    "Temp. note: Batch three."
+  ],
+  "number": [
+    "http://www.loc.gov/item/npc2007009706",
+    "2016835981",
+    "2019-10-15t08:20:29",
+    "http://www.loc.gov/item/2016835981",
+    "http://www.loc.gov/item/20191541"
+  ],
+  "number_former_id": [
+    "http://www.loc.gov/item/20191541",
+    "http://www.loc.gov/item/npc2007009706",
+    "http://www.loc.gov/item/2016835981"
+  ],
+  "number_lccn": [
+    "2016835981"
+  ],
+  "number_source_modified": [
+    "2019-10-15t08:20:29"
+  ],
+  "online_format": [
+    "image"
+  ],
+  "original_format": [
+    "photo, print, drawing"
+  ],
+  "other_control_numbers": [
+    "20191541",
+    "npc2007009706"
+  ],
+  "other_formats": [
+    {
+      "label": "MARCXML Record",
+      "link": "https://lccn.loc.gov/2016835981/marcxml"
+    },
+    {
+      "label": "MODS Record",
+      "link": "https://lccn.loc.gov/2016835981/mods"
+    },
+    {
+      "label": "Dublin Core Record",
+      "link": "https://lccn.loc.gov/2016835981/dc"
+    }
+  ],
+  "partof": [
+    {
+      "count": 35636,
+      "title": "national photo company collection",
+      "url": "https://www.loc.gov/collections/national-photo-company/?fo=json"
+    },
+    {
+      "count": 909541,
+      "title": "prints & photographs online catalog (library of congress)",
+      "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+    },
+    {
+      "count": 1163271,
+      "title": "prints and photographs division",
+      "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+    },
+    {
+      "count": 1905879,
+      "title": "catalog",
+      "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+    }
+  ],
+  "related": {
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=npco&pk=2016835981&st=gallery&sb=call_number#focus"
+  },
+  "repository": [
+    "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+  ],
+  "reproduction_number": "LC-DIG-npcc-09707 (digital file from original)",
+  "reproductions": [],
+  "resource_links": [
+    "//hdl.loc.gov/loc.pnp/npcc.09707"
+  ],
+  "resources": [
+    {
+      "caption": "digital file from original",
+      "files": 1,
+      "image": "https://tile.loc.gov/storage-services/service/pnp/npcc/09700/09707_150px.jpg",
+      "url": "https://www.loc.gov/resource/npcc.09707/"
+    }
+  ],
+  "rights": [
+    "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"https://www.loc.gov/rr/print/res/275_npco.html\">National Photo Company Collection - Rights and Restrictions Information</a> </p>\n\n"
+  ],
+  "rights_advisory": "No known restrictions on publication. For more information, see National Photo Company Collection - Rights and Restrictions Information https://www.loc.gov/rr/print/res/275_npco.html",
+  "rights_information": "No known restrictions on publication. For more information, see National Photo Company Collection - Rights and Restrictions Information https://www.loc.gov/rr/print/res/275_npco.html",
+  "score": 19.475159,
+  "shard": "00",
+  "shelf_id": "LC-F8- 26931 [P&P]",
+  "site": [
+    "pictures",
+    "catalog"
+  ],
+  "sort_date": "1923",
+  "source_collection": "National Photo Company Collection (Library of Congress)",
+  "source_created": "2007-07-02T00:00:00Z",
+  "source_modified": "2019-10-15T08:20:29Z",
+  "subject": [
+    "coolidge, calvin",
+    "glass negatives",
+    "animals & pets"
+  ],
+  "subject_headings": [
+    "Coolidge, Calvin,--1872-1933--Animals & pets"
+  ],
+  "subjects": [
+    {
+      "animals & pets": "https://www.loc.gov/search/?fa=subject:animals+%26+pets&fo=json"
+    },
+    {
+      "coolidge, calvin": "https://www.loc.gov/search/?fa=subject:coolidge,+calvin&fo=json"
+    },
+    {
+      "glass negatives": "https://www.loc.gov/search/?fa=subject:glass+negatives&fo=json"
+    }
+  ],
+  "summary": "Photograph shows Blackie and Tiger, two of the cats owned by President Calvin Coolidge.",
+  "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/npcc/09700/09707_150px.jpg",
+  "timestamp": "2022-04-30T20:58:54.757Z",
+  "title": "Blackie & Tiger, 10/20/23",
+  "unrestricted": true,
+  "url": "https://www.loc.gov/item/2016835981/"
+}

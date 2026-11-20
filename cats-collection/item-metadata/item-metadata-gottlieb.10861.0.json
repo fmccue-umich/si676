@@ -1,0 +1,265 @@
+{
+  "_version_": 1835892507145142272,
+  "access_restricted": false,
+  "aka": [
+    "http://lccn.loc.gov/2023868569",
+    "http://www.loc.gov/item/2023868569/",
+    "http://www.loc.gov/resource/music.musgottlieb-10861/",
+    "https://hdl.loc.gov/loc.music/gottlieb.10861"
+  ],
+  "campaigns": [],
+  "contributor_names": [
+    "Gottlieb, William P., photographer"
+  ],
+  "contributors": [
+    {
+      "gottlieb, william p.": "https://www.loc.gov/search/?fa=contributor:gottlieb,+william+p.&fo=json"
+    }
+  ],
+  "control_number": "",
+  "created_published": [
+    "1946."
+  ],
+  "date": "1946",
+  "dates": [
+    {
+      "1946": "https://www.loc.gov/search/?dates=1946/1946&fo=json"
+    }
+  ],
+  "description": [
+    "Caption from Down Beat: Probably no dance band ever has played to so many empty tables consistently as the Sam Donahue ork during the recent double booking with Lionel Hampton at the Aquarium. The operators decreed that Sam should play afternoons, and the place isn't open in the afternoon! A single customer, John Sorenson, who just got off a boat from Denmark, wandered in by mistake one day and was served by the entire skeleton staff of three waiters, a cashier, head waiter, cook and busboy. In one of these staff photos by got, Sam and the band are seen playing to an attentive audience, consisting of one cat, Hep. In the other Stan Kenton keeps lonely Sam company, while Nick Callonus, a waiter, stands ready to bring another drink Gottlieb Collection Assignment No. 112 In: \"Empty tables,\" Down Beat, v. 15, no. 26 (Dec. 16, 1946), p. 5. Original negative or transparency: 1 negative : b&w ; 3 1/4 x 4 1/4 in. Library of Congress Prints and Photographs Division. Originals not served. Originals Purchase; William P. Gottlieb, 1995-1997 Record created through migration from the Performing Arts Encyclopedia Database."
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2025-06-25T07:48:13.764Z",
+  "extract_urls": [
+    "https://repo.loc.gov/access/public/music/musgottlieb-10861/.resource.json#paprika-music",
+    "http://lccn.loc.gov/2023868569#catalog-split-01"
+  ],
+  "format": [
+    {
+      "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+    }
+  ],
+  "genre": [
+    "Group portraits--1940-1950",
+    "Portrait photographs--1940-1950"
+  ],
+  "group": [
+    "paprika-music",
+    "catalog-split-01",
+    "catalog",
+    "main-catalog-split-01"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/2023868569/",
+  "image_url": [
+    "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-10861:0001/full/pct:6.25/0/default.jpg",
+    "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-10861:0001/full/pct:6.25/0/default.jpg#h=329&w=249",
+    "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-10861:0001/full/pct:12.5/0/default.jpg#h=658&w=499",
+    "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-10861:0001/full/pct:25.0/0/default.jpg#h=1316&w=998",
+    "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-10861:0001/full/pct:50.0/0/default.jpg#h=2633&w=1997",
+    "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-10861:0001/full/pct:100.0/0/default.jpg#h=5266&w=3994"
+  ],
+  "index": 1,
+  "item": {
+    "contributors": [
+      "Gottlieb, William P., photographer"
+    ],
+    "created_published": [
+      "1946."
+    ],
+    "date": "1946",
+    "format": [
+      "still image"
+    ],
+    "genre": [
+      "Group portraits--1940-1950",
+      "Portrait photographs--1940-1950"
+    ],
+    "medium": [
+      "1 online resource."
+    ],
+    "notes": [
+      "Caption from Down Beat: Probably no dance band ever has played to so many empty tables consistently as the Sam Donahue ork during the recent double booking with Lionel Hampton at the Aquarium. The operators decreed that Sam should play afternoons, and the place isn't open in the afternoon! A single customer, John Sorenson, who just got off a boat from Denmark, wandered in by mistake one day and was served by the entire skeleton staff of three waiters, a cashier, head waiter, cook and busboy. In one of these staff photos by got, Sam and the band are seen playing to an attentive audience, consisting of one cat, Hep. In the other Stan Kenton keeps lonely Sam company, while Nick Callonus, a waiter, stands ready to bring another drink",
+      "Gottlieb Collection Assignment No. 112",
+      "In: \"Empty tables,\" Down Beat, v. 15, no. 26 (Dec. 16, 1946), p. 5.",
+      "Original negative or transparency: 1 negative : b&w ; 3 1/4 x 4 1/4 in. Library of Congress Prints and Photographs Division. Originals not served.",
+      "Originals Purchase; William P. Gottlieb, 1995-1997",
+      "Record created through migration from the Performing Arts Encyclopedia Database."
+    ],
+    "number_former_id": [
+      "https://www.loc.gov/item/2023868569",
+      "https://www.loc.gov/item/gottlieb.10861"
+    ],
+    "repository": [
+      "c-Music Electronic resource"
+    ],
+    "rights_advisory": [
+      "Mr. Gottlieb has dedicated these works to the public domain, but rights of privacy and publicity may apply."
+    ],
+    "subjects": [
+      "Big bands--1940-1950",
+      "Jazz musicians--1940-1950",
+      "Saxophonists--1940-1950",
+      "Donahue, Sam",
+      "Hep",
+      "Aquarium"
+    ],
+    "title": "[Portrait of Sam Donahue and Hep, Aquarium, New York, N.Y., ca. Dec. 1946]"
+  },
+  "library_of_congress_control_number": "2023868569",
+  "medium": [
+    "1 online resource."
+  ],
+  "mime_type": [
+    "image/jpeg",
+    "application/pdf",
+    "image/jp2"
+  ],
+  "notes": [
+    "Caption from Down Beat: Probably no dance band ever has played to so many empty tables consistently as the Sam Donahue ork during the recent double booking with Lionel Hampton at the Aquarium. The operators decreed that Sam should play afternoons, and the place isn't open in the afternoon! A single customer, John Sorenson, who just got off a boat from Denmark, wandered in by mistake one day and was served by the entire skeleton staff of three waiters, a cashier, head waiter, cook and busboy. In one of these staff photos by got, Sam and the band are seen playing to an attentive audience, consisting of one cat, Hep. In the other Stan Kenton keeps lonely Sam company, while Nick Callonus, a waiter, stands ready to bring another drink",
+    "Gottlieb Collection Assignment No. 112",
+    "In: \"Empty tables,\" Down Beat, v. 15, no. 26 (Dec. 16, 1946), p. 5.",
+    "Original negative or transparency: 1 negative : b&w ; 3 1/4 x 4 1/4 in. Library of Congress Prints and Photographs Division. Originals not served.",
+    "Originals Purchase; William P. Gottlieb, 1995-1997",
+    "Record created through migration from the Performing Arts Encyclopedia Database."
+  ],
+  "number": [
+    "2024-06-13t10:20:13",
+    "2023868569",
+    "http://www.loc.gov/item/2023868569",
+    "http://www.loc.gov/resource/gottlieb.10861.0",
+    "http://www.loc.gov/item/gottlieb.10861",
+    "online resource"
+  ],
+  "number_carrier_type": [
+    "online resource"
+  ],
+  "number_former_id": [
+    "http://www.loc.gov/resource/gottlieb.10861.0",
+    "http://www.loc.gov/item/2023868569",
+    "http://www.loc.gov/item/gottlieb.10861"
+  ],
+  "number_lccn": [
+    "2023868569"
+  ],
+  "number_source_modified": [
+    "2024-06-13t10:20:13"
+  ],
+  "online_format": [
+    "image",
+    "pdf"
+  ],
+  "original_format": [
+    "photo, print, drawing"
+  ],
+  "other_formats": [
+    {
+      "label": "MARCXML Record",
+      "link": "https://lccn.loc.gov/2023868569/marcxml"
+    },
+    {
+      "label": "MODS Record",
+      "link": "https://lccn.loc.gov/2023868569/mods"
+    },
+    {
+      "label": "Dublin Core Record",
+      "link": "https://lccn.loc.gov/2023868569/dc"
+    }
+  ],
+  "partof": [
+    {
+      "count": 1793,
+      "title": "william p. gottlieb collection",
+      "url": "https://www.loc.gov/collections/jazz-photography-of-william-p-gottlieb/?fo=json"
+    },
+    {
+      "count": 184454,
+      "title": "music division",
+      "url": "https://www.loc.gov/search/?fa=partof:music+division&fo=json"
+    },
+    {
+      "count": 1905879,
+      "title": "catalog",
+      "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+    }
+  ],
+  "repository": [
+    "c-Music Electronic resource"
+  ],
+  "resources": [
+    {
+      "files": 1,
+      "image": "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-10861:0001/full/pct:6.25/0/default.jpg",
+      "paprika_resource_path": "/sets/music/musgottlieb-10861",
+      "pdf": "https://tile.loc.gov/storage-services/public/music/musgottlieb-10861/musgottlieb-10861.pdf",
+      "schemaVersion": "v1",
+      "url": "https://www.loc.gov/resource/music.musgottlieb-10861/",
+      "version": 4
+    }
+  ],
+  "rights": [
+    "<p>In accordance with the wishes of William Gottlieb, the photographs in this collection entered into the public domain on February 16, 2010, but rights of privacy and publicity may apply. Privacy and publicity rights protect the interests of the person(s) who may be the subject(s) of the work or intellectual creation. Users of photographs in the Gottlieb collection are responsible for clearing any privacy or publicity rights associated with the use of the images.</p>\n<p>The following items are included in the William P. Gottlieb Collection with permission as noted:</p>\n<p>Articles from <em>Down Beat</em> magazine by William Gottlieb and others, Ed Enright, Editor, <em>Down Beat</em> magazine, 102 North Haven Road, Elmhurst, IL 60126-3370.</p>\n<p>\"The Faces of Jazz,\" by W. Royal Stokes, <em>Civilization</em>, vol. 2, no. 5, September-October 1995, <em>Civilizaton</em>, Attn. Managing Editor, 666 Pennsylvania Ave. SE, Suite 303, Washington, D.C. 20003. Reproduced by permission. All rights reserved.</p>\n<p>Credit Line: William P. Gottlieb/Ira and Leonore S. Gershwin Fund Collection, Music Division, Library of Congress.</p>"
+  ],
+  "rights_advisory": [
+    "Mr. Gottlieb has dedicated these works to the public domain, but rights of privacy and publicity may apply."
+  ],
+  "score": 15.973326,
+  "shard": "08",
+  "shelf_id": "https://repo.loc.gov/access/public/music/musgottlieb-10861/.resource.json",
+  "site": [
+    "catalog"
+  ],
+  "source_modified": "2000-01-01T12:00:00Z",
+  "subject": [
+    "saxophonists",
+    "donahue, sam",
+    "portrait photographs",
+    "aquarium",
+    "big bands",
+    "hep",
+    "jazz musicians",
+    "group portraits"
+  ],
+  "subject_headings": [
+    "Big bands--1940-1950",
+    "Jazz musicians--1940-1950",
+    "Saxophonists--1940-1950",
+    "Donahue, Sam",
+    "Hep",
+    "Aquarium"
+  ],
+  "subjects": [
+    {
+      "aquarium": "https://www.loc.gov/search/?fa=subject:aquarium&fo=json"
+    },
+    {
+      "big bands": "https://www.loc.gov/search/?fa=subject:big+bands&fo=json"
+    },
+    {
+      "donahue, sam": "https://www.loc.gov/search/?fa=subject:donahue,+sam&fo=json"
+    },
+    {
+      "group portraits": "https://www.loc.gov/search/?fa=subject:group+portraits&fo=json"
+    },
+    {
+      "hep": "https://www.loc.gov/search/?fa=subject:hep&fo=json"
+    },
+    {
+      "jazz musicians": "https://www.loc.gov/search/?fa=subject:jazz+musicians&fo=json"
+    },
+    {
+      "portrait photographs": "https://www.loc.gov/search/?fa=subject:portrait+photographs&fo=json"
+    },
+    {
+      "saxophonists": "https://www.loc.gov/search/?fa=subject:saxophonists&fo=json"
+    }
+  ],
+  "timestamp": "2025-06-25T09:25:31.676Z",
+  "title": "[Portrait of Sam Donahue and Hep, Aquarium, New York, N.Y., ca. Dec. 1946]",
+  "type": [
+    "still image"
+  ],
+  "url": "https://www.loc.gov/item/2023868569/"
+}

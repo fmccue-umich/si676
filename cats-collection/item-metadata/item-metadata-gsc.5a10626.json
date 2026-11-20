@@ -1,0 +1,401 @@
+{
+  "_version_": 1731268686757494784,
+  "access_restricted": false,
+  "aka": [
+    "https://www.loc.gov/pictures/item/2018743226/",
+    "http://www.loc.gov/item/2018743226/",
+    "http://www.loc.gov/pictures/item/2018743226/",
+    "https://www.loc.gov/pictures/collection/gsc/item/2018743226/",
+    "http://www.loc.gov/pictures/collection/gsc/item/2018743226/",
+    "https://hdl.loc.gov/loc.pnp/gsc.5a10626",
+    "https://hdl.loc.gov/loc.pnp/gsc.5a10626",
+    "http://www.loc.gov/resource/gsc.5a10626/",
+    "http://lccn.loc.gov/2018743226"
+  ],
+  "call_number": "LC-G612- 45132-B [P&P]",
+  "campaigns": [],
+  "contributor_names": [
+    "Gottscho-Schleisner, Inc., photographer"
+  ],
+  "contributors": [
+    {
+      "gottscho-schleisner, inc": "https://www.loc.gov/search/?fa=contributor:gottscho-schleisner,+inc&fo=json"
+    }
+  ],
+  "control_number": "",
+  "created": "2021-09-14T06:01:49Z",
+  "created_published": [
+    "1944 Apr. 7."
+  ],
+  "created_published_date": "1944 Apr. 7.",
+  "date": "1944-01-01",
+  "dates": [
+    {
+      "1944": "https://www.loc.gov/search/?dates=1944/1944&fo=json"
+    }
+  ],
+  "description": [
+    "1 negative : safety ; 5x7 in."
+  ],
+  "digital_id": [
+    "gsc 5a10626 https://hdl.loc.gov/loc.pnp/gsc.5a10626"
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2021-09-18T13:53:01.457Z",
+  "extract_urls": [
+    "http://www.loc.gov/pictures/collection/gsc/item/2018743226/#gsc",
+    "http://lccn.loc.gov/2018743226#catalog-split-03"
+  ],
+  "format": [
+    {
+      "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+    }
+  ],
+  "format_headings": [
+    "Acetate negatives.",
+    "Portrait photographs."
+  ],
+  "genre": [
+    "Acetate negatives",
+    "Portrait photographs"
+  ],
+  "group": [
+    "gsc",
+    "catalog-split-03",
+    "catalog",
+    "gottscho-schleisner",
+    "main-catalog-split-03",
+    "main-catalog"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/2018743226/",
+  "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/gsc/5a10000/5a10600/5a10626_150px.jpg#h=150&w=109",
+    "https://tile.loc.gov/storage-services/service/pnp/gsc/5a10000/5a10600/5a10626t.gif#h=150&w=109",
+    "https://tile.loc.gov/storage-services/service/pnp/gsc/5a10000/5a10600/5a10626r.jpg#h=420&w=305"
+  ],
+  "index": 1,
+  "item": {
+    "call_number": "LC-G612- 45132-B [P&P]",
+    "contributors": [
+      "Gottscho-Schleisner, Inc., photographer."
+    ],
+    "control_number": "2018743226",
+    "created": "2021-09-14T06:01:49Z",
+    "created_published": "1944 Apr. 7.",
+    "created_published_date": "1944 Apr. 7.",
+    "creators": [
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Gottscho-Schleisner%2C%20Inc.&co=gsc",
+        "role": "photographer",
+        "title": "Gottscho-Schleisner, Inc."
+      }
+    ],
+    "date": "1944 Apr. 7.",
+    "digital_id": [
+      "gsc 5a10626 https://hdl.loc.gov/loc.pnp/gsc.5a10626"
+    ],
+    "display_offsite": true,
+    "format": [
+      "still image"
+    ],
+    "formats": [
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=format&q=Acetate%20negatives.&co=gsc",
+        "title": "Acetate negatives."
+      },
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=format&q=Portrait%20photographs.&co=gsc",
+        "title": "Portrait photographs."
+      }
+    ],
+    "genre": [
+      "Acetate negatives",
+      "Portrait photographs"
+    ],
+    "id": "2018743226",
+    "language": [
+      "eng"
+    ],
+    "link": "https://www.loc.gov/pictures/item/2018743226/",
+    "marc": "https://www.loc.gov/pictures/item/2018743226/marc/",
+    "medium": [
+      "1 negative : safety ; 5x7 in."
+    ],
+    "medium_brief": "1 negative :",
+    "mediums": [
+      "1 negative : safety ; 5x7 in."
+    ],
+    "modified": "2021-09-14T06:01:51Z",
+    "notes": [
+      "Annotation: for House & garden.",
+      "Title and date from original negative sleeves or photographer's registers.",
+      "Credit line: Gottscho-Schleisner Collection, Library of Congress, Prints and Photographs Division.",
+      "General information about the Gottscho-Schleisner Collection is available at: https://hdl.loc.gov/loc.pnp/pp.gsc",
+      "Forms part of: Gottscho-Schleisner Collection (Library of Congress)",
+      "Temp. note: Batch five."
+    ],
+    "number_former_id": [
+      "https://www.loc.gov/item/2018743226",
+      "https://www.loc.gov/item/gsc1994021002/PP"
+    ],
+    "other_control_numbers": [
+      "21181828",
+      "gsc1994021002/PP"
+    ],
+    "part_of": "Gottscho-Schleisner Collection (Library of Congress)",
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=New%20York%20%28State%29--New%20York&co=gsc",
+        "longitude": "",
+        "title": "New York (State)--New York"
+      }
+    ],
+    "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA",
+    "reproduction_number": "LC-G612-T-45132-B (interpositive)",
+    "resource_links": [
+      "https://hdl.loc.gov/loc.pnp/gsc.5a10626"
+    ],
+    "rights_advisory": "No known restrictions on publication. For information, see: \"Gottscho-Schleisner Collection\" https://hdl.loc.gov/loc.pnp/res.104.gott",
+    "rights_information": "No known restrictions on publication. For information, see: \"Gottscho-Schleisner Collection\" https://hdl.loc.gov/loc.pnp/res.104.gott",
+    "service_low": "https://tile.loc.gov/storage-services/service/pnp/gsc/5a10000/5a10600/5a10626_150px.jpg",
+    "service_medium": "https://tile.loc.gov/storage-services/service/pnp/gsc/5a10000/5a10600/5a10626r.jpg",
+    "sort_date": "1944",
+    "source_collection": [
+      "Gottscho-Schleisner Collection (Library of Congress)"
+    ],
+    "source_created": "1992-11-02T00:00:00Z",
+    "source_modified": "2021-09-10T12:25:31Z",
+    "subject_headings": [
+      "Dwellings.",
+      "United States--New York (State)--New York.",
+      "New York (State)--New York"
+    ],
+    "subjects": [
+      "Dwellings",
+      "United States--New York (State)--New York"
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/gsc/5a10000/5a10600/5a10626_150px.jpg",
+    "title": "Ed and Pegeen Fitzgerald, residence at 15 E. 36th St., New York City. Pegeen at typewriter with cats"
+  },
+  "language": [
+    "english"
+  ],
+  "languages": [
+    {
+      "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+    }
+  ],
+  "library_of_congress_control_number": "2018743226",
+  "link": "https://www.loc.gov/pictures/item/2018743226/",
+  "location": [
+    "new york (state)",
+    "new york",
+    "united states"
+  ],
+  "location_city": [
+    "new york"
+  ],
+  "location_country": [
+    "united states"
+  ],
+  "location_state": [
+    "new york (state)"
+  ],
+  "locations": [
+    {
+      "new york": "https://www.loc.gov/search/?fa=location:new+york&fo=json"
+    },
+    {
+      "new york (state)": "https://www.loc.gov/search/?fa=location:new+york+%28state%29&fo=json"
+    },
+    {
+      "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+    }
+  ],
+  "locations_city": [
+    {
+      "new york": "https://www.loc.gov/search/?fa=location_city:new+york&fo=json"
+    }
+  ],
+  "locations_country": [
+    {
+      "united states": "https://www.loc.gov/search/?fa=location_country:united+states&fo=json"
+    }
+  ],
+  "locations_state": [
+    {
+      "new york (state)": "https://www.loc.gov/search/?fa=location_state:new+york+%28state%29&fo=json"
+    }
+  ],
+  "marc": "https://www.loc.gov/pictures/item/2018743226/marc/",
+  "medium": [
+    "1 negative : safety ; 5x7 in."
+  ],
+  "medium_brief": "1 negative :",
+  "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+  ],
+  "modified": "2021-09-14T06:01:51Z",
+  "notes": [
+    "Annotation: for House & garden.",
+    "Title and date from original negative sleeves or photographer's registers.",
+    "Credit line: Gottscho-Schleisner Collection, Library of Congress, Prints and Photographs Division.",
+    "General information about the Gottscho-Schleisner Collection is available at: https://hdl.loc.gov/loc.pnp/pp.gsc",
+    "Forms part of: Gottscho-Schleisner Collection (Library of Congress)",
+    "Temp. note: Batch five."
+  ],
+  "number": [
+    "2021-09-10t12:25:31",
+    "http://www.loc.gov/item/gsc1994021002/pp",
+    "http://www.loc.gov/item/2018743226",
+    "2018743226",
+    "http://www.loc.gov/item/21181828"
+  ],
+  "number_former_id": [
+    "http://www.loc.gov/item/21181828",
+    "http://www.loc.gov/item/gsc1994021002/pp",
+    "http://www.loc.gov/item/2018743226"
+  ],
+  "number_lccn": [
+    "2018743226"
+  ],
+  "number_source_modified": [
+    "2021-09-10t12:25:31"
+  ],
+  "online_format": [
+    "image"
+  ],
+  "original_format": [
+    "photo, print, drawing"
+  ],
+  "other_control_numbers": [
+    "21181828",
+    "gsc1994021002/PP"
+  ],
+  "other_formats": [
+    {
+      "label": "MARCXML Record",
+      "link": "https://lccn.loc.gov/2018743226/marcxml"
+    },
+    {
+      "label": "MODS Record",
+      "link": "https://lccn.loc.gov/2018743226/mods"
+    },
+    {
+      "label": "Dublin Core Record",
+      "link": "https://lccn.loc.gov/2018743226/dc"
+    }
+  ],
+  "partof": [
+    {
+      "count": 29010,
+      "title": "gottscho-schleisner collection",
+      "url": "https://www.loc.gov/collections/gottscho-schleisner/?fo=json"
+    },
+    {
+      "count": 419269,
+      "title": "american memory",
+      "url": "https://www.loc.gov/search/?fa=partof:american+memory&fo=json"
+    },
+    {
+      "count": 909541,
+      "title": "prints & photographs online catalog (library of congress)",
+      "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+    },
+    {
+      "count": 1163271,
+      "title": "prints and photographs division",
+      "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+    },
+    {
+      "count": 1905879,
+      "title": "catalog",
+      "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+    }
+  ],
+  "place": [
+    {
+      "latitude": "",
+      "link": "https://www.loc.gov/pictures/related/?fi=place&q=New%20York%20%28State%29--New%20York&co=gsc",
+      "longitude": "",
+      "title": "New York (State)--New York"
+    }
+  ],
+  "related": {
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=gsc&pk=2018743226&st=gallery&sb=call_number#focus"
+  },
+  "repository": [
+    "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA"
+  ],
+  "reproduction_number": "LC-G612-T-45132-B (interpositive)",
+  "reproductions": [],
+  "resource_links": [
+    "https://hdl.loc.gov/loc.pnp/gsc.5a10626"
+  ],
+  "resources": [
+    {
+      "caption": "intermediary roll film",
+      "files": 1,
+      "image": "https://tile.loc.gov/storage-services/service/pnp/gsc/5a10000/5a10600/5a10626_150px.jpg",
+      "url": "https://www.loc.gov/resource/gsc.5a10626/"
+    }
+  ],
+  "rights": [
+    "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"https://www.loc.gov/rr/print/res/104_gott.html\">Gottscho-Schleisner Collection - Rights and Restrictions Information</a> </p>\n\n"
+  ],
+  "rights_advisory": "No known restrictions on publication. For information, see: \"Gottscho-Schleisner Collection\" https://hdl.loc.gov/loc.pnp/res.104.gott",
+  "rights_information": "No known restrictions on publication. For information, see: \"Gottscho-Schleisner Collection\" https://hdl.loc.gov/loc.pnp/res.104.gott",
+  "score": 19.475159,
+  "shard": "00",
+  "shelf_id": "LC-G612- 45132-B [P&P]",
+  "site": [
+    "pictures",
+    "catalog"
+  ],
+  "sort_date": "1944",
+  "source_collection": "Gottscho-Schleisner Collection (Library of Congress)",
+  "source_created": "1992-11-02T00:00:00Z",
+  "source_modified": "2021-09-10T12:25:31Z",
+  "subject": [
+    "new york",
+    "dwellings",
+    "acetate negatives",
+    "portrait photographs",
+    "new york (state)",
+    "united states"
+  ],
+  "subject_headings": [
+    "Dwellings",
+    "United States--New York (State)--New York"
+  ],
+  "subjects": [
+    {
+      "acetate negatives": "https://www.loc.gov/search/?fa=subject:acetate+negatives&fo=json"
+    },
+    {
+      "dwellings": "https://www.loc.gov/search/?fa=subject:dwellings&fo=json"
+    },
+    {
+      "new york": "https://www.loc.gov/search/?fa=subject:new+york&fo=json"
+    },
+    {
+      "new york (state)": "https://www.loc.gov/search/?fa=subject:new+york+%28state%29&fo=json"
+    },
+    {
+      "portrait photographs": "https://www.loc.gov/search/?fa=subject:portrait+photographs&fo=json"
+    },
+    {
+      "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+    }
+  ],
+  "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/gsc/5a10000/5a10600/5a10626_150px.jpg",
+  "timestamp": "2022-04-27T13:34:40.774Z",
+  "title": "Ed and Pegeen Fitzgerald, residence at 15 E. 36th St., New York City. Pegeen at typewriter with cats",
+  "unrestricted": true,
+  "url": "https://www.loc.gov/item/2018743226/"
+}

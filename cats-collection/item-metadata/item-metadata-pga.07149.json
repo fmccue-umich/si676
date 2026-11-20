@@ -1,0 +1,341 @@
+{
+  "_version_": 1731579735174021120,
+  "access_restricted": false,
+  "aka": [
+    "https://www.loc.gov/pictures/item/2004670356/",
+    "http://www.loc.gov/item/2004670356/",
+    "http://www.loc.gov/pictures/item/2004670356/",
+    "https://www.loc.gov/pictures/collection/pga/item/2004670356/",
+    "http://www.loc.gov/pictures/collection/pga/item/2004670356/",
+    "http://www.loc.gov/resource/pga.07149/",
+    "http://www.loc.gov/resource/cph.3b24415/",
+    "http://lccn.loc.gov/2004670356",
+    "https://hdl.loc.gov/loc.pnp/pga.07149",
+    "https://hdl.loc.gov/loc.pnp/cph.3b24415"
+  ],
+  "call_number": "PGA - Hunter (T.)--Cats (B size) [P&P]",
+  "campaigns": [],
+  "contributor_names": [
+    "Hunter, Thomas, approximately 1828-approximately 1894."
+  ],
+  "contributors": [
+    {
+      "hunter, thomas": "https://www.loc.gov/search/?fa=contributor:hunter,+thomas&fo=json"
+    },
+    {
+      "hunter, thomas, approximately 1828-approximately 1894": "https://www.loc.gov/search/?fa=contributor:hunter,+thomas,+approximately+1828-approximately+1894&fo=json"
+    }
+  ],
+  "control_number": "",
+  "created": "2019-10-22T05:56:24Z",
+  "created_published": [
+    "Philda. : Lith. & copyright 1874 by Thos. Hunter, Philda., [1874]"
+  ],
+  "created_published_date": "[1874]",
+  "date": "1874-01-01",
+  "dates": [
+    {
+      "1874": "https://www.loc.gov/search/?dates=1874/1874&fo=json"
+    }
+  ],
+  "description": [
+    "1 print : tinted lithograph ; sheet 48.5 x 57.3 cm. | Print shows the faces and front paws of two sleeping cats."
+  ],
+  "digital_id": [
+    "pga 07149 //hdl.loc.gov/loc.pnp/pga.07149",
+    "cph 3b24415 //hdl.loc.gov/loc.pnp/cph.3b24415"
+  ],
+  "digitized": true,
+  "display_offsite": true,
+  "extract_timestamp": "2021-06-28T22:56:28.339Z",
+  "extract_urls": [
+    "http://www.loc.gov/pictures/collection/pga/item/2004670356/#pga",
+    "http://lccn.loc.gov/2004670356#catalog-split-01"
+  ],
+  "format": [
+    {
+      "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+    }
+  ],
+  "format_headings": [
+    "Lithographs--Color--1870-1880."
+  ],
+  "genre": [
+    "Lithographs--Color--1870-1880"
+  ],
+  "group": [
+    "pga",
+    "catalog-split-01",
+    "catalog",
+    "popular-graphic-arts",
+    "main-catalog-split-01",
+    "main-catalog"
+  ],
+  "hassegments": false,
+  "id": "http://www.loc.gov/item/2004670356/",
+  "image_url": [
+    "https://tile.loc.gov/storage-services/service/pnp/pga/07100/07149_150px.jpg#h=128&w=150",
+    "https://tile.loc.gov/storage-services/service/pnp/pga/07100/07149r.jpg#h=546&w=640",
+    "https://tile.loc.gov/storage-services/service/pnp/pga/07100/07149v.jpg#h=873&w=1024"
+  ],
+  "index": 1,
+  "item": {
+    "call_number": "PGA - Hunter (T.)--Cats (B size) [P&P]",
+    "contributors": [
+      "Hunter, Thomas, approximately 1828-approximately 1894."
+    ],
+    "control_number": "2004670356",
+    "created": "2019-10-22T05:56:24Z",
+    "created_published": "Philda. : Lith. & copyright 1874 by Thos. Hunter, Philda., [1874]",
+    "created_published_date": "[1874]",
+    "creators": [
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=name&q=Hunter%2C%20Thomas%2C%20approximately%201828-approximately%201894.&co=pga",
+        "role": "",
+        "title": "Hunter, Thomas, approximately 1828-approximately 1894."
+      }
+    ],
+    "date": "[1874]",
+    "digital_id": [
+      "pga 07149 //hdl.loc.gov/loc.pnp/pga.07149",
+      "cph 3b24415 //hdl.loc.gov/loc.pnp/cph.3b24415"
+    ],
+    "display_offsite": true,
+    "format": [
+      "still image"
+    ],
+    "formats": [
+      {
+        "link": "https://www.loc.gov/pictures/related/?fi=format&q=Lithographs--Color--1870-1880.&co=pga",
+        "title": "Lithographs--Color--1870-1880."
+      }
+    ],
+    "genre": [
+      "Lithographs--Color--1870-1880"
+    ],
+    "id": "2004670356",
+    "language": [
+      "eng"
+    ],
+    "link": "https://www.loc.gov/pictures/item/2004670356/",
+    "marc": "https://www.loc.gov/pictures/item/2004670356/marc/",
+    "medium": [
+      "1 print : tinted lithograph ; sheet 48.5 x 57.3 cm."
+    ],
+    "medium_brief": "1 print :",
+    "mediums": [
+      "1 print : tinted lithograph ; sheet 48.5 x 57.3 cm."
+    ],
+    "modified": "2019-10-22T05:56:24Z",
+    "notes": [
+      "E14783 U.S. Copyright Office.",
+      "Title from item.",
+      "Publication date based on copyright statement and/or copyright stamp on item.",
+      "Copyright stamp, date, and number appear on lower left.",
+      "Forms part of: Popular graphic art print filing series (Library of Congress)."
+    ],
+    "other_control_numbers": [
+      "13560641"
+    ],
+    "part_of": "Popular graphic art print filing series (Library of Congress)",
+    "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+    "reproduction_number": "LC-DIG-pga-07149 (digital file from original item)\nLC-USZ62-77261 (b&w film copy neg.)",
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/pga.07149",
+      "//hdl.loc.gov/loc.pnp/cph.3b24415"
+    ],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "service_low": "https://tile.loc.gov/storage-services/service/pnp/pga/07100/07149_150px.jpg",
+    "service_medium": "https://tile.loc.gov/storage-services/service/pnp/pga/07100/07149r.jpg",
+    "sort_date": "1874",
+    "source_collection": [
+      "Popular graphic art print filing series (Library of Congress)"
+    ],
+    "source_created": "2004-04-15T00:00:00Z",
+    "source_modified": "2019-10-15T08:08:35Z",
+    "stmt_of_responsibility": "after Miss E.C. Beaux ; lith. & copyright 1874 by Thos. Hunter, Philda.",
+    "subject_headings": [
+      "Cats--1870-1880.",
+      "Faces--1870-1880.",
+      "Sleeping--1870-1880."
+    ],
+    "subjects": [
+      "Cats--1870-1880",
+      "Faces--1870-1880",
+      "Sleeping--1870-1880"
+    ],
+    "summary": "Print shows the faces and front paws of two sleeping cats.",
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/pga/07100/07149_150px.jpg",
+    "title": "Cats"
+  },
+  "language": [
+    "english"
+  ],
+  "languages": [
+    {
+      "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+    }
+  ],
+  "library_of_congress_control_number": "2004670356",
+  "link": "https://www.loc.gov/pictures/item/2004670356/",
+  "marc": "https://www.loc.gov/pictures/item/2004670356/marc/",
+  "medium": [
+    "1 print : tinted lithograph ; sheet 48.5 x 57.3 cm."
+  ],
+  "medium_brief": "1 print :",
+  "mime_type": [
+    "image/gif",
+    "image/jpg",
+    "image/tif"
+  ],
+  "modified": "2019-10-22T05:56:24Z",
+  "notes": [
+    "E14783 U.S. Copyright Office.",
+    "Title from item.",
+    "Publication date based on copyright statement and/or copyright stamp on item.",
+    "Copyright stamp, date, and number appear on lower left.",
+    "Forms part of: Popular graphic art print filing series (Library of Congress)."
+  ],
+  "number": [
+    "http://www.loc.gov/item/13560641",
+    "2004670356",
+    "sheet",
+    "2019-10-15t08:08:35"
+  ],
+  "number_carrier_type": [
+    "sheet"
+  ],
+  "number_former_id": [
+    "http://www.loc.gov/item/13560641"
+  ],
+  "number_lccn": [
+    "2004670356"
+  ],
+  "number_source_modified": [
+    "2019-10-15t08:08:35"
+  ],
+  "online_format": [
+    "image"
+  ],
+  "original_format": [
+    "photo, print, drawing"
+  ],
+  "other_control_numbers": [
+    "13560641"
+  ],
+  "other_formats": [
+    {
+      "label": "MARCXML Record",
+      "link": "https://lccn.loc.gov/2004670356/marcxml"
+    },
+    {
+      "label": "MODS Record",
+      "link": "https://lccn.loc.gov/2004670356/mods"
+    },
+    {
+      "label": "Dublin Core Record",
+      "link": "https://lccn.loc.gov/2004670356/dc"
+    }
+  ],
+  "partof": [
+    {
+      "count": 18960,
+      "title": "popular graphic arts",
+      "url": "https://www.loc.gov/collections/popular-graphic-arts/?fo=json"
+    },
+    {
+      "count": 909541,
+      "title": "prints & photographs online catalog (library of congress)",
+      "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+    },
+    {
+      "count": 1163271,
+      "title": "prints and photographs division",
+      "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+    },
+    {
+      "count": 1905879,
+      "title": "catalog",
+      "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+    }
+  ],
+  "related": {
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=pga&pk=2004670356&st=gallery&sb=call_number#focus"
+  },
+  "repository": [
+    "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+  ],
+  "reproduction_number": "LC-DIG-pga-07149 (digital file from original item)\nLC-USZ62-77261 (b&w film copy neg.)",
+  "reproductions": [],
+  "resource_links": [
+    "//hdl.loc.gov/loc.pnp/pga.07149",
+    "//hdl.loc.gov/loc.pnp/cph.3b24415"
+  ],
+  "resources": [
+    {
+      "caption": "digital file from original item",
+      "files": 1,
+      "image": "https://tile.loc.gov/storage-services/service/pnp/pga/07100/07149_150px.jpg",
+      "url": "https://www.loc.gov/resource/pga.07149/"
+    },
+    {
+      "caption": "digital file from b&w film copy neg.",
+      "files": 1,
+      "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b24000/3b24400/3b24415_150px.jpg",
+      "url": "https://www.loc.gov/resource/cph.3b24415/"
+    }
+  ],
+  "rights": [
+    "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"https://www.loc.gov/rr/print/res/248_pga.html\">Popular Graphic Arts Collection - Rights and Restrictions Information</a> </p>\n\n"
+  ],
+  "rights_advisory": "No known restrictions on publication.",
+  "rights_information": "No known restrictions on publication.",
+  "score": 19.475159,
+  "shard": "00",
+  "shelf_id": "PGA - Hunter (T.)--Cats (B size) [P&P]",
+  "site": [
+    "pictures",
+    "catalog"
+  ],
+  "sort_date": "1874",
+  "source_collection": "Popular graphic art print filing series (Library of Congress)",
+  "source_created": "2004-04-15T00:00:00Z",
+  "source_modified": "2019-10-15T08:08:35Z",
+  "stmt_of_responsibility": "after Miss E.C. Beaux ; lith. & copyright 1874 by Thos. Hunter, Philda.",
+  "subject": [
+    "lithographs",
+    "faces",
+    "sleeping",
+    "cats",
+    "color"
+  ],
+  "subject_headings": [
+    "Cats--1870-1880",
+    "Faces--1870-1880",
+    "Sleeping--1870-1880"
+  ],
+  "subjects": [
+    {
+      "cats": "https://www.loc.gov/search/?fa=subject:cats&fo=json"
+    },
+    {
+      "color": "https://www.loc.gov/search/?fa=subject:color&fo=json"
+    },
+    {
+      "faces": "https://www.loc.gov/search/?fa=subject:faces&fo=json"
+    },
+    {
+      "lithographs": "https://www.loc.gov/search/?fa=subject:lithographs&fo=json"
+    },
+    {
+      "sleeping": "https://www.loc.gov/search/?fa=subject:sleeping&fo=json"
+    }
+  ],
+  "summary": "Print shows the faces and front paws of two sleeping cats.",
+  "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/pga/07100/07149_150px.jpg",
+  "timestamp": "2022-04-30T23:58:39.973Z",
+  "title": "Cats / after Miss E.C. Beaux ; lith. & copyright 1874 by Thos. Hunter, Philda.",
+  "unrestricted": true,
+  "url": "https://www.loc.gov/item/2004670356/"
+}
